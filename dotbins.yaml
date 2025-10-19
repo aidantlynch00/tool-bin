@@ -1,0 +1,15 @@
+tools_dir: ~/.tool-bin
+
+platforms:
+  linux:
+    - amd64
+    - arm64
+
+tools:
+  bat: sharkdp/bat
+  fzf: junegunn/fzf
+  zoxide: ajeetdsouza/zoxide
+  starship:
+    repo: starship/starship
+    shell_code:
+      bash: eval "$(starship init bash)"
