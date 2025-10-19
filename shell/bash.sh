@@ -10,6 +10,11 @@ _arch=$(uname -m)
 export PATH="$HOME/.tool-bin/$_os/$_arch/bin:$PATH"
 
 # Tool-specific configurations
+# Configuration for fastfetch
+if command -v fastfetch >/dev/null 2>&1; then
+    fastfetch
+fi
+
 # Configuration for nvim
 if command -v nvim >/dev/null 2>&1; then
     export EDITOR="nvim"

@@ -10,13 +10,18 @@ platforms:
     - arm64
 
 tools:
-  fastfetch: fastfetch-cli/fastfetch
   bat: sharkdp/bat
   fzf: junegunn/fzf
   rg: BurntSushi/ripgrep
   git-lfs: git-lfs/git-lfs
   lazygit: jesseduffield/lazygit
   ghostty: pkgforge-dev/ghostty-appimage
+
+  fastfetch:
+    repo: fastfetch-cli/fastfetch
+    shell_code:
+      bash: |
+        fastfetch
 
   nvim:
     repo: neovim/neovim
