@@ -1,0 +1,81 @@
+{
+  "version": 2,
+  "bat/linux/amd64": {
+    "tag": "v0.25.0",
+    "updated_at": "2025-10-19T12:23:19.975772",
+    "sha256": "93f47d76abe328c402ef712e9ac92aa6d5bc84d5adcbcaf0bbc5665e5275a941",
+    "url": "https://github.com/sharkdp/bat/releases/download/v0.25.0/bat-v0.25.0-x86_64-unknown-linux-musl.tar.gz"
+  },
+  "fastfetch/linux/amd64": {
+    "tag": "2.54.0",
+    "updated_at": "2025-10-19T12:23:20.166757",
+    "sha256": "8290f72a67b0e65116969336fc4a356064eeca62eada76173535cbbecf75dd2e",
+    "url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.54.0/fastfetch-linux-amd64-polyfilled.tar.gz"
+  },
+  "fzf/linux/amd64": {
+    "tag": "v0.66.0",
+    "updated_at": "2025-10-19T12:23:20.280596",
+    "sha256": "362d5f92187560a87338b427dbe573d1e1bf8b4fb4bab1f44aca6a8f7fe8070f",
+    "url": "https://github.com/junegunn/fzf/releases/download/v0.66.0/fzf-0.66.0-linux_amd64.tar.gz"
+  },
+  "ghostty/linux/amd64": {
+    "tag": "v1.1.2",
+    "updated_at": "2025-10-19T12:51:13.059399",
+    "sha256": "0e8e0e051027d29160918d1d0c6de112d5a5dc61765b5c154fc44f54224689c3",
+    "url": "https://github.com/pkgforge-dev/ghostty-appimage/releases/download/v1.1.2/Ghostty-1.1.2-x86_64.AppImage"
+  },
+  "git-lfs/linux/amd64": {
+    "tag": "v3.7.1",
+    "updated_at": "2025-10-19T12:23:20.677475",
+    "sha256": "1c0b6ee5200ca708c5cebebb18fdeb0e1c98f1af5c1a9cba205a4c0ab5a5ec08",
+    "url": "https://github.com/git-lfs/git-lfs/releases/download/v3.7.1/git-lfs-linux-amd64-v3.7.1.tar.gz"
+  },
+  "lazygit/linux/amd64": {
+    "tag": "v0.55.1",
+    "updated_at": "2025-10-19T12:23:21.107398",
+    "sha256": "6385a699dde302b7fdcd1cc8910ae225ed0c19a230285569c586051576f0d6a3",
+    "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.55.1/lazygit_0.55.1_linux_x86_64.tar.gz"
+  },
+  "neovim/linux/amd64": {
+    "tag": "v0.11.4",
+    "updated_at": "2025-10-19T12:23:24.468138",
+    "sha256": "a74740047e73b2b380d63a474282814063d10650cd6cc95efa16d1713c7e616c",
+    "url": "https://github.com/neovim/neovim/releases/download/v0.11.4/nvim-linux-x86_64.tar.gz"
+  },
+  "nvim/linux/amd64": {
+    "tag": "v0.11.4",
+    "updated_at": "2025-10-19T12:41:18.221976",
+    "sha256": "79e7e160f9505819a5e12f3d9366be94213f5309fb912ef4ef3af52df3982977",
+    "url": "https://github.com/neovim/neovim/releases/download/v0.11.4/nvim-linux-x86_64.appimage"
+  },
+  "rg/linux/amd64": {
+    "tag": "15.0.0",
+    "updated_at": "2025-10-19T12:23:24.631896",
+    "sha256": "253ad0fd5fef0d64cba56c70dccdacc1916d4ed70ad057cc525fcdb0c3bbd2a7",
+    "url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-x86_64-unknown-linux-musl.tar.gz"
+  },
+  "starship/linux/amd64": {
+    "tag": "v1.23.0",
+    "updated_at": "2025-10-19T12:23:24.892808",
+    "sha256": "8d06d2cc67aedd6316ff58ab679fb80cded0d85de1dcd5727df0633d35356d57",
+    "url": "https://github.com/starship/starship/releases/download/v1.23.0/starship-x86_64-unknown-linux-musl.tar.gz"
+  },
+  "uv/linux/amd64": {
+    "tag": "0.9.4",
+    "updated_at": "2025-10-19T13:08:57.046371",
+    "sha256": "89c128a9bb7a0086cc35922401c20099337db84294c7997dd3df79b9f3157c45",
+    "url": "https://github.com/astral-sh/uv/releases/download/0.9.4/uv-x86_64-unknown-linux-musl.tar.gz"
+  },
+  "zellij/linux/amd64": {
+    "tag": "v0.43.1",
+    "updated_at": "2025-10-19T12:23:25.663808",
+    "sha256": "bac0728945e8f5a28f2647e2b9b0cfe4591d71abfe227336b1318937241f071d",
+    "url": "https://github.com/zellij-org/zellij/releases/download/v0.43.1/zellij-no-web-x86_64-unknown-linux-musl.tar.gz"
+  },
+  "zoxide/linux/amd64": {
+    "tag": "v0.9.8",
+    "updated_at": "2025-10-19T11:34:20.335317",
+    "sha256": "4092ee38aa1efde42e4efb2f9c872df5388198aacae7f1a74e5eb5c3cc7f531c",
+    "url": "https://github.com/ajeetdsouza/zoxide/releases/download/v0.9.8/zoxide-0.9.8-x86_64-unknown-linux-musl.tar.gz"
+  }
+}

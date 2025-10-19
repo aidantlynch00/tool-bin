@@ -1,15 +1,52 @@
 tools_dir: ~/.tool-bin
 
+defaults:
+  prefer_appimage: true
+  libc: musl
+
 platforms:
   linux:
     - amd64
     - arm64
 
 tools:
+  fastfetch: fastfetch-cli/fastfetch
   bat: sharkdp/bat
   fzf: junegunn/fzf
-  zoxide: ajeetdsouza/zoxide
+  rg: BurntSushi/ripgrep
+  git-lfs: git-lfs/git-lfs
+  lazygit: jesseduffield/lazygit
+  ghostty: pkgforge-dev/ghostty-appimage
+
+  nvim:
+    repo: neovim/neovim
+    shell_code:
+      bash: |
+        export EDITOR="nvim"
+        alias vi="nvim"
+        alias vim="nvim"
+        alias nv="nvim"
+
+  zellij:
+    repo: zellij-org/zellij
+    shell_code:
+      bash: |
+        alias zj="zellij"
+
   starship:
     repo: starship/starship
     shell_code:
-      bash: eval "$(starship init bash)"
+      bash: |
+        STARSHIP_DIR=$HOME/.config/starship
+        if [ "$ZELLIJ" = "0" ]; then
+            export STARSHIP_CONFIG=$STARSHIP_DIR/short.toml
+        else
+            export STARSHIP_CONFIG=$STARSHIP_DIR/default.toml
+        fi
+
+        eval "$(starship init bash)"
+
+  uv:
+    repo: astral-sh/uv
+    binary_name: [uv, uvx]
+    path_in_archive: [uv-*/uv, uv-*/uvx]
