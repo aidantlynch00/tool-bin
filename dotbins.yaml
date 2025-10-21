@@ -19,8 +19,13 @@ tools:
   delta: dandavison/delta
   tldr: tealdeer-rs/tealdeer
   yq: mikefarah/yq
-  fastfetch: fastfetch-cli/fastfetch
   ghostty: pkgforge-dev/ghostty-appimage
+
+  fastfetch:
+    repo: fastfetch-cli/fastfetch
+    shell_code:
+      bash: |
+        fastfetch
 
   lazygit:
     repo: jesseduffield/lazygit
@@ -32,26 +37,13 @@ tools:
     repo: sst/opencode
     shell_code:
       bash: |
-        alias oc="opencode"
-
-        function oct {
-            tmp_dir=$(mktemp --directory)
-            prev_dir=$(pwd)
-            cd "$tmp_dir"
-            opencode $@
-            cd "$prev_dir"
-
-            if ! rmdir "$tmp_dir" 1>/dev/null 2>&1; then
-                echo "Temporary directory not empty"
-            fi
-        }
+        source ~/.tool-bin/setup/opencode.sh
 
   fzf:
     repo: junegunn/fzf
     shell_code:
       bash: |
-        export FZF_CTRL_R_OPTS="--height 7"
-        eval "$(fzf --bash)"
+        source ~/.tool-bin/setup/fzf.sh
 
   nvim:
     repo: neovim/neovim
@@ -72,14 +64,7 @@ tools:
     repo: starship/starship
     shell_code:
       bash: |
-        STARSHIP_DIR=$HOME/.config/starship
-        if [ "$ZELLIJ" = "0" ]; then
-            export STARSHIP_CONFIG=$STARSHIP_DIR/short.toml
-        else
-            export STARSHIP_CONFIG=$STARSHIP_DIR/default.toml
-        fi
-
-        eval "$(starship init bash)"
+        source ~/.tool-bin/setup/starship.sh
 
   uv:
     repo: astral-sh/uv

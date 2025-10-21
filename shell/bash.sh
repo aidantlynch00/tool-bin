@@ -10,6 +10,11 @@ _arch=$(uname -m)
 export PATH="$HOME/.tool-bin/$_os/$_arch/bin:$PATH"
 
 # Tool-specific configurations
+# Configuration for fastfetch
+if command -v fastfetch >/dev/null 2>&1; then
+    fastfetch
+fi
+
 # Configuration for lazygit
 if command -v lazygit >/dev/null 2>&1; then
     alias lg="lazygit"
@@ -17,25 +22,12 @@ fi
 
 # Configuration for opencode
 if command -v opencode >/dev/null 2>&1; then
-    alias oc="opencode"
-    
-    function oct {
-        tmp_dir=$(mktemp --directory)
-        prev_dir=$(pwd)
-        cd "$tmp_dir"
-        opencode $@
-        cd "$prev_dir"
-    
-        if ! rmdir "$tmp_dir" 1>/dev/null 2>&1; then
-            echo "Temporary directory not empty"
-        fi
-    }
+    source ~/.tool-bin/setup/opencode.sh
 fi
 
 # Configuration for fzf
 if command -v fzf >/dev/null 2>&1; then
-    export FZF_CTRL_R_OPTS="--height 7"
-    eval "$(fzf --bash)"
+    source ~/.tool-bin/setup/fzf.sh
 fi
 
 # Configuration for nvim
@@ -53,13 +45,6 @@ fi
 
 # Configuration for starship
 if command -v starship >/dev/null 2>&1; then
-    STARSHIP_DIR=$HOME/.config/starship
-    if [ "$ZELLIJ" = "0" ]; then
-        export STARSHIP_CONFIG=$STARSHIP_DIR/short.toml
-    else
-        export STARSHIP_CONFIG=$STARSHIP_DIR/default.toml
-    fi
-    
-    eval "$(starship init bash)"
+    source ~/.tool-bin/setup/starship.sh
 fi
 
