@@ -15,34 +15,48 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | Tool | Repository | Version | Updated | Platforms & Architectures |
 | :--- | :--------- | :------ | :------ | :------------------------ |
 | [bat](https://github.com/sharkdp/bat) | sharkdp/bat | 0.25.0 | Oct 19, 2025 | linux (amd64) |
+| [delta](https://github.com/dandavison/delta) | dandavison/delta | 0.18.2 | Oct 20, 2025 | linux (amd64) |
+| [duf](https://github.com/muesli/duf) | muesli/duf | 0.9.1 | Oct 20, 2025 | linux (amd64) |
+| [dust](https://github.com/bootandy/dust) | bootandy/dust | 1.2.3 | Oct 20, 2025 | linux (amd64) |
+| [eza](https://github.com/eza-community/eza) | eza-community/eza | 0.23.4 | Oct 20, 2025 | linux (amd64) |
 | [fastfetch](https://github.com/fastfetch-cli/fastfetch) | fastfetch-cli/fastfetch | 2.54.0 | Oct 19, 2025 | linux (amd64) |
 | [fzf](https://github.com/junegunn/fzf) | junegunn/fzf | 0.66.0 | Oct 19, 2025 | linux (amd64) |
 | [ghostty](https://github.com/pkgforge-dev/ghostty-appimage) | pkgforge-dev/ghostty-appimage | 1.1.2 | Oct 19, 2025 | linux (amd64) |
 | [git-lfs](https://github.com/git-lfs/git-lfs) | git-lfs/git-lfs | 3.7.1 | Oct 19, 2025 | linux (amd64) |
 | [lazygit](https://github.com/jesseduffield/lazygit) | jesseduffield/lazygit | 0.55.1 | Oct 19, 2025 | linux (amd64) |
 | [nvim](https://github.com/neovim/neovim) | neovim/neovim | 0.11.4 | Oct 19, 2025 | linux (amd64) |
+| [opencode](https://github.com/sst/opencode) | sst/opencode | 0.15.10 | Oct 20, 2025 | linux (amd64) |
 | [rg](https://github.com/BurntSushi/ripgrep) | BurntSushi/ripgrep | 15.0.0 | Oct 19, 2025 | linux (amd64) |
 | [starship](https://github.com/starship/starship) | starship/starship | 1.23.0 | Oct 19, 2025 | linux (amd64) |
+| [tldr](https://github.com/tealdeer-rs/tealdeer) | tealdeer-rs/tealdeer | 1.8.0 | Oct 20, 2025 | linux (amd64) |
 | [uv](https://github.com/astral-sh/uv) | astral-sh/uv | 0.9.4 | Oct 19, 2025 | linux (amd64) |
+| [yq](https://github.com/mikefarah/yq) | mikefarah/yq | 4.48.1 | Oct 20, 2025 | linux (amd64) |
 | [zellij](https://github.com/zellij-org/zellij) | zellij-org/zellij | 0.43.1 | Oct 19, 2025 | linux (amd64) |
 
 ## Tool Statistics
 
-<div align='center'><h3>11 Tools | 253.05 MB Total Size</h3></div>
+<div align='center'><h3>18 Tools | 409.66 MB Total Size</h3></div>
 
 | Tool | Total Size | Avg Size per Architecture |
 | :--- | :-------- | :------------------------ |
+| opencode | 126.98 MB | 126.98 MB |
 | ghostty | 88.3 MB | 88.3 MB |
 | uv | 51.05 MB | 51.05 MB |
 | zellij | 40.53 MB | 40.53 MB |
 | lazygit | 20.98 MB | 20.98 MB |
 | git-lfs | 12.36 MB | 12.36 MB |
 | starship | 11.34 MB | 11.34 MB |
+| yq | 10.95 MB | 10.95 MB |
 | nvim | 10.5 MB | 10.5 MB |
+| delta | 6.85 MB | 6.85 MB |
 | bat | 5.99 MB | 5.99 MB |
 | rg | 5.19 MB | 5.19 MB |
 | fzf | 4.2 MB | 4.2 MB |
+| tldr | 3.4 MB | 3.4 MB |
+| dust | 3.07 MB | 3.07 MB |
+| duf | 2.98 MB | 2.98 MB |
 | fastfetch | 2.6 MB | 2.6 MB |
+| eza | 2.38 MB | 2.38 MB |
 
 ## Shell Integration
 
@@ -109,5 +123,5 @@ For detailed usage information, run `dotbins --help` or `dotbins <command> --hel
 
 ## Additional Information
 
-* This README was automatically generated on Oct 19, 2025
+* This README was automatically generated on Oct 20, 2025
 * Current platform: **linux/amd64**

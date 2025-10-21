@@ -11,17 +11,47 @@ platforms:
 
 tools:
   bat: sharkdp/bat
-  fzf: junegunn/fzf
   rg: BurntSushi/ripgrep
+  duf: muesli/duf
+  dust: bootandy/dust
+  eza: eza-community/eza
   git-lfs: git-lfs/git-lfs
-  lazygit: jesseduffield/lazygit
+  delta: dandavison/delta
+  tldr: tealdeer-rs/tealdeer
+  yq: mikefarah/yq
+  fastfetch: fastfetch-cli/fastfetch
   ghostty: pkgforge-dev/ghostty-appimage
 
-  fastfetch:
-    repo: fastfetch-cli/fastfetch
+  lazygit:
+    repo: jesseduffield/lazygit
     shell_code:
       bash: |
-        fastfetch
+        alias lg="lazygit"
+
+  opencode:
+    repo: sst/opencode
+    shell_code:
+      bash: |
+        alias oc="opencode"
+
+        function oct {
+            tmp_dir=$(mktemp --directory)
+            prev_dir=$(pwd)
+            cd "$tmp_dir"
+            opencode $@
+            cd "$prev_dir"
+
+            if ! rmdir "$tmp_dir" 1>/dev/null 2>&1; then
+                echo "Temporary directory not empty"
+            fi
+        }
+
+  fzf:
+    repo: junegunn/fzf
+    shell_code:
+      bash: |
+        export FZF_CTRL_R_OPTS="--height 7"
+        eval "$(fzf --bash)"
 
   nvim:
     repo: neovim/neovim
