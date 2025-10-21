@@ -108,11 +108,23 @@
     "sha256": "99df6047f5b577a9d25f969f7c3823ada3488de2e2115b30a0abb10d9324fd9f",
     "url": "https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_linux_amd64"
   },
+  "zellij-switch/linux/amd64": {
+    "tag": "0.2.1",
+    "updated_at": "2025-10-20T23:36:59.310957",
+    "sha256": "ef257e41ffeb73337ed1dead309942d14663d12d8f58170f0cdab5045b0a22ae",
+    "url": "https://github.com/mostafaqanbaryan/zellij-switch/releases/download/0.2.1/zellij-switch.wasm"
+  },
   "zellij/linux/amd64": {
     "tag": "v0.43.1",
     "updated_at": "2025-10-19T12:23:25.663808",
     "sha256": "bac0728945e8f5a28f2647e2b9b0cfe4591d71abfe227336b1318937241f071d",
     "url": "https://github.com/zellij-org/zellij/releases/download/v0.43.1/zellij-no-web-x86_64-unknown-linux-musl.tar.gz"
+  },
+  "zjstatus/linux/amd64": {
+    "tag": "v0.21.1",
+    "updated_at": "2025-10-20T23:36:59.383822",
+    "sha256": "dc1982a208c27f66871e69811458fbb1abdb15e28662fddb136b575d6564ae1a",
+    "url": "https://github.com/dj95/zjstatus/releases/download/v0.21.1/zjstatus.wasm"
   },
   "zoxide/linux/amd64": {
     "tag": "v0.9.8",

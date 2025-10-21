@@ -32,10 +32,12 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | [uv](https://github.com/astral-sh/uv) | astral-sh/uv | 0.9.4 | Oct 19, 2025 | linux (amd64) |
 | [yq](https://github.com/mikefarah/yq) | mikefarah/yq | 4.48.1 | Oct 20, 2025 | linux (amd64) |
 | [zellij](https://github.com/zellij-org/zellij) | zellij-org/zellij | 0.43.1 | Oct 19, 2025 | linux (amd64) |
+| [zellij-switch](https://github.com/mostafaqanbaryan/zellij-switch) | mostafaqanbaryan/zellij-switch | 0.2.1 | Oct 20, 2025 | linux (amd64) |
+| [zjstatus](https://github.com/dj95/zjstatus) | dj95/zjstatus | 0.21.1 | Oct 20, 2025 | linux (amd64) |
 
 ## Tool Statistics
 
-<div align='center'><h3>18 Tools | 409.66 MB Total Size</h3></div>
+<div align='center'><h3>20 Tools | 414.83 MB Total Size</h3></div>
 
 | Tool | Total Size | Avg Size per Architecture |
 | :--- | :-------- | :------------------------ |
@@ -51,12 +53,14 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | delta | 6.85 MB | 6.85 MB |
 | bat | 5.99 MB | 5.99 MB |
 | rg | 5.19 MB | 5.19 MB |
+| zjstatus | 4.28 MB | 4.28 MB |
 | fzf | 4.2 MB | 4.2 MB |
 | tldr | 3.4 MB | 3.4 MB |
 | dust | 3.07 MB | 3.07 MB |
 | duf | 2.98 MB | 2.98 MB |
 | fastfetch | 2.6 MB | 2.6 MB |
 | eza | 2.38 MB | 2.38 MB |
+| zellij-switch | 914.3 KB | 914.3 KB |
 
 ## Shell Integration
 
