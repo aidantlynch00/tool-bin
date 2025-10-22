@@ -54,6 +54,24 @@
     "sha256": "1c0b6ee5200ca708c5cebebb18fdeb0e1c98f1af5c1a9cba205a4c0ab5a5ec08",
     "url": "https://github.com/git-lfs/git-lfs/releases/download/v3.7.1/git-lfs-linux-amd64-v3.7.1.tar.gz"
   },
+  "gum/linux/amd64": {
+    "tag": "v0.17.0",
+    "updated_at": "2025-10-22T19:26:02.922314",
+    "sha256": "69ee169bd6387331928864e94d47ed01ef649fbfe875baed1bbf27b5377a6fdb",
+    "url": "https://github.com/charmbracelet/gum/releases/download/v0.17.0/gum_0.17.0_Linux_x86_64.tar.gz"
+  },
+  "hexyl/linux/amd64": {
+    "tag": "v0.16.0",
+    "updated_at": "2025-10-22T19:36:04.704189",
+    "sha256": "62ae62a5e5fdd67a587e45ba19acdbe0099a6e60961ccd4db9fe2ac1f3f29528",
+    "url": "https://github.com/sharkdp/hexyl/releases/download/v0.16.0/hexyl-v0.16.0-x86_64-unknown-linux-musl.tar.gz"
+  },
+  "hyperfine/linux/amd64": {
+    "tag": "v1.19.0",
+    "updated_at": "2025-10-22T19:31:39.013930",
+    "sha256": "825287143f397774093539ca2458854ab3735c0e8a1aaf075c22edce7d261556",
+    "url": "https://github.com/sharkdp/hyperfine/releases/download/v1.19.0/hyperfine-v1.19.0-x86_64-unknown-linux-musl.tar.gz"
+  },
   "lazygit/linux/amd64": {
     "tag": "v0.55.1",
     "updated_at": "2025-10-19T12:23:21.107398",
@@ -73,10 +91,16 @@
     "url": "https://github.com/neovim/neovim/releases/download/v0.11.4/nvim-linux-x86_64.appimage"
   },
   "opencode/linux/amd64": {
-    "tag": "v0.15.10",
-    "updated_at": "2025-10-20T21:04:46.018877",
-    "sha256": "847f2cd175abc41cb119e7ab6a5f7600dc6c3d4a384c756449b3ceb193462d83",
-    "url": "https://github.com/sst/opencode/releases/download/v0.15.10/opencode-linux-x64-baseline.zip"
+    "tag": "v0.15.13",
+    "updated_at": "2025-10-22T19:27:14.600204",
+    "sha256": "1bcbfe657ec068b6a4294b48fb6074b26598c8b451ecd15e2ef3ce5ebdc66d84",
+    "url": "https://github.com/sst/opencode/releases/download/v0.15.13/opencode-linux-x64-baseline.zip"
+  },
+  "pastel/linux/amd64": {
+    "tag": "v0.11.0",
+    "updated_at": "2025-10-22T19:36:04.729419",
+    "sha256": "2bf6fa8d8c03b1296868cb9d82eef6c8c0969f1bf5cbc47e6976d01ef400b916",
+    "url": "https://github.com/sharkdp/pastel/releases/download/v0.11.0/pastel-v0.11.0-x86_64-unknown-linux-musl.tar.gz"
   },
   "rg/linux/amd64": {
     "tag": "15.0.0",

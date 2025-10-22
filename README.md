@@ -23,9 +23,13 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | [fzf](https://github.com/junegunn/fzf) | junegunn/fzf | 0.66.0 | Oct 19, 2025 | linux (amd64) |
 | [ghostty](https://github.com/pkgforge-dev/ghostty-appimage) | pkgforge-dev/ghostty-appimage | 1.1.2 | Oct 19, 2025 | linux (amd64) |
 | [git-lfs](https://github.com/git-lfs/git-lfs) | git-lfs/git-lfs | 3.7.1 | Oct 19, 2025 | linux (amd64) |
+| [gum](https://github.com/charmbracelet/gum) | charmbracelet/gum | 0.17.0 | Oct 22, 2025 | linux (amd64) |
+| [hexyl](https://github.com/sharkdp/hexyl) | sharkdp/hexyl | 0.16.0 | Oct 22, 2025 | linux (amd64) |
+| [hyperfine](https://github.com/sharkdp/hyperfine) | sharkdp/hyperfine | 1.19.0 | Oct 22, 2025 | linux (amd64) |
 | [lazygit](https://github.com/jesseduffield/lazygit) | jesseduffield/lazygit | 0.55.1 | Oct 19, 2025 | linux (amd64) |
 | [nvim](https://github.com/neovim/neovim) | neovim/neovim | 0.11.4 | Oct 19, 2025 | linux (amd64) |
-| [opencode](https://github.com/sst/opencode) | sst/opencode | 0.15.10 | Oct 20, 2025 | linux (amd64) |
+| [opencode](https://github.com/sst/opencode) | sst/opencode | 0.15.13 | Oct 22, 2025 | linux (amd64) |
+| [pastel](https://github.com/sharkdp/pastel) | sharkdp/pastel | 0.11.0 | Oct 22, 2025 | linux (amd64) |
 | [rg](https://github.com/BurntSushi/ripgrep) | BurntSushi/ripgrep | 15.0.0 | Oct 19, 2025 | linux (amd64) |
 | [starship](https://github.com/starship/starship) | starship/starship | 1.23.0 | Oct 19, 2025 | linux (amd64) |
 | [tldr](https://github.com/tealdeer-rs/tealdeer) | tealdeer-rs/tealdeer | 1.8.0 | Oct 20, 2025 | linux (amd64) |
@@ -37,15 +41,16 @@ This repository contains command-line tools automatically managed by [dotbins](h
 
 ## Tool Statistics
 
-<div align='center'><h3>20 Tools | 414.83 MB Total Size</h3></div>
+<div align='center'><h3>24 Tools | 435.72 MB Total Size</h3></div>
 
 | Tool | Total Size | Avg Size per Architecture |
 | :--- | :-------- | :------------------------ |
-| opencode | 126.98 MB | 126.98 MB |
+| opencode | 130.89 MB | 130.89 MB |
 | ghostty | 88.3 MB | 88.3 MB |
 | uv | 51.05 MB | 51.05 MB |
 | zellij | 40.53 MB | 40.53 MB |
 | lazygit | 20.98 MB | 20.98 MB |
+| gum | 13.1 MB | 13.1 MB |
 | git-lfs | 12.36 MB | 12.36 MB |
 | starship | 11.34 MB | 11.34 MB |
 | yq | 10.95 MB | 10.95 MB |
@@ -60,6 +65,9 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | duf | 2.98 MB | 2.98 MB |
 | fastfetch | 2.6 MB | 2.6 MB |
 | eza | 2.38 MB | 2.38 MB |
+| hyperfine | 1.39 MB | 1.39 MB |
+| pastel | 1.31 MB | 1.31 MB |
+| hexyl | 1.17 MB | 1.17 MB |
 | zellij-switch | 914.3 KB | 914.3 KB |
 
 ## Shell Integration

@@ -11,6 +11,9 @@ platforms:
 
 tools:
   bat: sharkdp/bat
+  pastel: sharkdp/pastel
+  hexyl: sharkdp/hexyl
+  hyperfine: sharkdp/hyperfine
   rg: BurntSushi/ripgrep
   duf: muesli/duf
   dust: bootandy/dust
@@ -20,6 +23,7 @@ tools:
   tldr: tealdeer-rs/tealdeer
   yq: mikefarah/yq
   ghostty: pkgforge-dev/ghostty-appimage
+  gum: charmbracelet/gum
 
   fastfetch:
     repo: fastfetch-cli/fastfetch
