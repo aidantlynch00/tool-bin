@@ -24,6 +24,7 @@ tools:
   yq: mikefarah/yq
   ghostty: pkgforge-dev/ghostty-appimage
   gum: charmbracelet/gum
+  caligula: ifd3f/caligula
 
   fastfetch:
     repo: fastfetch-cli/fastfetch

@@ -15,6 +15,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | Tool | Repository | Version | Updated | Platforms & Architectures |
 | :--- | :--------- | :------ | :------ | :------------------------ |
 | [bat](https://github.com/sharkdp/bat) | sharkdp/bat | 0.25.0 | Oct 19, 2025 | linux (amd64) |
+| [caligula](https://github.com/ifd3f/caligula) | ifd3f/caligula | 0.4.10 | Oct 24, 2025 | linux (amd64) |
 | [delta](https://github.com/dandavison/delta) | dandavison/delta | 0.18.2 | Oct 20, 2025 | linux (amd64) |
 | [duf](https://github.com/muesli/duf) | muesli/duf | 0.9.1 | Oct 20, 2025 | linux (amd64) |
 | [dust](https://github.com/bootandy/dust) | bootandy/dust | 1.2.3 | Oct 20, 2025 | linux (amd64) |
@@ -41,7 +42,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 
 ## Tool Statistics
 
-<div align='center'><h3>24 Tools | 435.72 MB Total Size</h3></div>
+<div align='center'><h3>25 Tools | 439.61 MB Total Size</h3></div>
 
 | Tool | Total Size | Avg Size per Architecture |
 | :--- | :-------- | :------------------------ |
@@ -60,6 +61,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | rg | 5.19 MB | 5.19 MB |
 | zjstatus | 4.28 MB | 4.28 MB |
 | fzf | 4.2 MB | 4.2 MB |
+| caligula | 3.89 MB | 3.89 MB |
 | tldr | 3.4 MB | 3.4 MB |
 | dust | 3.07 MB | 3.07 MB |
 | duf | 2.98 MB | 2.98 MB |

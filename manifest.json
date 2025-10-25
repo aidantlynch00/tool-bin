@@ -6,6 +6,12 @@
     "sha256": "93f47d76abe328c402ef712e9ac92aa6d5bc84d5adcbcaf0bbc5665e5275a941",
     "url": "https://github.com/sharkdp/bat/releases/download/v0.25.0/bat-v0.25.0-x86_64-unknown-linux-musl.tar.gz"
   },
+  "caligula/linux/amd64": {
+    "tag": "v0.4.10",
+    "updated_at": "2025-10-24T23:22:01.994157",
+    "sha256": "55fe42dccc920ea47c9cc84a4deb842465f4e48256ee76e61317548406553274",
+    "url": "https://github.com/ifd3f/caligula/releases/download/v0.4.10/caligula-x86_64-linux"
+  },
   "delta/linux/amd64": {
     "tag": "0.18.2",
     "updated_at": "2025-10-20T21:04:43.950942",
