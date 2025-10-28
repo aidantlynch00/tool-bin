@@ -1,10 +1,10 @@
 {
   "version": 2,
   "bat/linux/amd64": {
-    "tag": "v0.25.0",
-    "updated_at": "2025-10-19T12:23:19.975772",
-    "sha256": "93f47d76abe328c402ef712e9ac92aa6d5bc84d5adcbcaf0bbc5665e5275a941",
-    "url": "https://github.com/sharkdp/bat/releases/download/v0.25.0/bat-v0.25.0-x86_64-unknown-linux-musl.tar.gz"
+    "tag": "v0.26.0",
+    "updated_at": "2025-10-28T10:03:33.599585",
+    "sha256": "26a683b038fbc526c6df4166db693ddc9e431e5bdc285d45ccd6b72f3cff5ffd",
+    "url": "https://github.com/sharkdp/bat/releases/download/v0.26.0/bat-v0.26.0-x86_64-unknown-linux-musl.tar.gz"
   },
   "caligula/linux/amd64": {
     "tag": "v0.4.10",
@@ -43,10 +43,10 @@
     "url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.54.0/fastfetch-linux-amd64-polyfilled.tar.gz"
   },
   "fzf/linux/amd64": {
-    "tag": "v0.66.0",
-    "updated_at": "2025-10-19T12:23:20.280596",
-    "sha256": "362d5f92187560a87338b427dbe573d1e1bf8b4fb4bab1f44aca6a8f7fe8070f",
-    "url": "https://github.com/junegunn/fzf/releases/download/v0.66.0/fzf-0.66.0-linux_amd64.tar.gz"
+    "tag": "v0.66.1",
+    "updated_at": "2025-10-28T10:03:33.637442",
+    "sha256": "eca8d793061283122d79ff81baf996535c0bfbf7058253142aaf2578e56943ef",
+    "url": "https://github.com/junegunn/fzf/releases/download/v0.66.1/fzf-0.66.1-linux_amd64.tar.gz"
   },
   "ghostty/linux/amd64": {
     "tag": "v1.1.2",
@@ -97,10 +97,10 @@
     "url": "https://github.com/neovim/neovim/releases/download/v0.11.4/nvim-linux-x86_64.appimage"
   },
   "opencode/linux/amd64": {
-    "tag": "v0.15.13",
-    "updated_at": "2025-10-22T19:27:14.600204",
-    "sha256": "1bcbfe657ec068b6a4294b48fb6074b26598c8b451ecd15e2ef3ce5ebdc66d84",
-    "url": "https://github.com/sst/opencode/releases/download/v0.15.13/opencode-linux-x64-baseline.zip"
+    "tag": "v0.15.19",
+    "updated_at": "2025-10-28T10:03:34.613108",
+    "sha256": "7076acfcf23413dbb6f01de3bebd31ad8a649c5f7d4fcafef20488d8e8fe31bc",
+    "url": "https://github.com/sst/opencode/releases/download/v0.15.19/opencode-linux-x64-baseline.zip"
   },
   "pastel/linux/amd64": {
     "tag": "v0.11.0",
@@ -109,16 +109,16 @@
     "url": "https://github.com/sharkdp/pastel/releases/download/v0.11.0/pastel-v0.11.0-x86_64-unknown-linux-musl.tar.gz"
   },
   "rg/linux/amd64": {
-    "tag": "15.0.0",
-    "updated_at": "2025-10-19T12:23:24.631896",
-    "sha256": "253ad0fd5fef0d64cba56c70dccdacc1916d4ed70ad057cc525fcdb0c3bbd2a7",
-    "url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-x86_64-unknown-linux-musl.tar.gz"
+    "tag": "15.1.0",
+    "updated_at": "2025-10-28T10:03:34.669572",
+    "sha256": "1c9297be4a084eea7ecaedf93eb03d058d6faae29bbc57ecdaf5063921491599",
+    "url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-x86_64-unknown-linux-musl.tar.gz"
   },
   "starship/linux/amd64": {
-    "tag": "v1.23.0",
-    "updated_at": "2025-10-19T12:23:24.892808",
-    "sha256": "8d06d2cc67aedd6316ff58ab679fb80cded0d85de1dcd5727df0633d35356d57",
-    "url": "https://github.com/starship/starship/releases/download/v1.23.0/starship-x86_64-unknown-linux-musl.tar.gz"
+    "tag": "v1.24.0",
+    "updated_at": "2025-10-28T10:03:34.767192",
+    "sha256": "8111d9c25e8b583284e1dacec4bfb50000323ea1a66453c6451ef026d76781cf",
+    "url": "https://github.com/starship/starship/releases/download/v1.24.0/starship-x86_64-unknown-linux-musl.tar.gz"
   },
   "tldr/linux/amd64": {
     "tag": "v1.8.0",
@@ -127,10 +127,10 @@
     "url": "https://github.com/tealdeer-rs/tealdeer/releases/download/v1.8.0/tealdeer-linux-x86_64-musl"
   },
   "uv/linux/amd64": {
-    "tag": "0.9.4",
-    "updated_at": "2025-10-19T13:08:57.046371",
-    "sha256": "89c128a9bb7a0086cc35922401c20099337db84294c7997dd3df79b9f3157c45",
-    "url": "https://github.com/astral-sh/uv/releases/download/0.9.4/uv-x86_64-unknown-linux-musl.tar.gz"
+    "tag": "0.9.5",
+    "updated_at": "2025-10-28T10:03:35.178036",
+    "sha256": "3665ffb6c429c31ad6c778ac0489b7746e691acf025cf530b3510b2f9b1660ff",
+    "url": "https://github.com/astral-sh/uv/releases/download/0.9.5/uv-x86_64-unknown-linux-musl.tar.gz"
   },
   "yq/linux/amd64": {
     "tag": "v4.48.1",
