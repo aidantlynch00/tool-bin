@@ -7,7 +7,14 @@ _arch=$(uname -m)
 [[ "$_arch" == "x86_64" ]] && _arch="amd64"
 [[ "$_arch" == "aarch64" || "$_arch" == "arm64" ]] && _arch="arm64"
 
-export PATH="$HOME/.tool-bin/$_os/$_arch/bin:$PATH"
+# symlink platform bin to current
+shell_dir=$(dirname $(readlink -f "${BASH_SOURCE[0]}"))
+tool_dir=$(dirname "$shell_dir")
+tool_bin="$tool_dir/$_os/$_arch/bin"
+curr_dir="$tool_dir/current"
+mkdir -p "$curr_dir"
+ln -sf "$tool_bin" "$curr_dir"
+export PATH="$curr_dir/bin:$PATH"
 
 # Tool-specific configurations
 # Configuration for fastfetch
