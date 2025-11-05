@@ -79,10 +79,10 @@
     "url": "https://github.com/sharkdp/hyperfine/releases/download/v1.19.0/hyperfine-v1.19.0-x86_64-unknown-linux-musl.tar.gz"
   },
   "lazygit/linux/amd64": {
-    "tag": "v0.55.1",
-    "updated_at": "2025-10-19T12:23:21.107398",
-    "sha256": "6385a699dde302b7fdcd1cc8910ae225ed0c19a230285569c586051576f0d6a3",
-    "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.55.1/lazygit_0.55.1_linux_x86_64.tar.gz"
+    "tag": "v0.56.0",
+    "updated_at": "2025-11-05T17:54:26.957990",
+    "sha256": "ced13c2ae074bbf6c201bc700ee2971e193b811c3b2ae0ed4d00d6225c6c9ab7",
+    "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.56.0/lazygit_0.56.0_linux_x86_64.tar.gz"
   },
   "neovim/linux/amd64": {
     "tag": "v0.11.4",
@@ -91,16 +91,16 @@
     "url": "https://github.com/neovim/neovim/releases/download/v0.11.4/nvim-linux-x86_64.tar.gz"
   },
   "nvim/linux/amd64": {
-    "tag": "v0.11.4",
-    "updated_at": "2025-10-19T12:41:18.221976",
-    "sha256": "79e7e160f9505819a5e12f3d9366be94213f5309fb912ef4ef3af52df3982977",
-    "url": "https://github.com/neovim/neovim/releases/download/v0.11.4/nvim-linux-x86_64.appimage"
+    "tag": "v0.11.5",
+    "updated_at": "2025-11-05T17:54:06.275955",
+    "sha256": "7a4adf657f0b775ee4f4de6c94353b4a0548a3c6b31049a20538e05d4eea411a",
+    "url": "https://github.com/neovim/neovim/releases/download/v0.11.5/nvim-linux-x86_64.appimage"
   },
   "opencode/linux/amd64": {
-    "tag": "v1.0.7",
-    "updated_at": "2025-11-01T09:37:19.909885",
-    "sha256": "5555ccde998b356f1fb88648eb02b4a625f8717e8ff49dd169e0bdf6a74f1088",
-    "url": "https://github.com/sst/opencode/releases/download/v1.0.7/opencode-linux-x64-baseline.zip"
+    "tag": "v1.0.29",
+    "updated_at": "2025-11-05T17:53:33.135651",
+    "sha256": "9480de7d4b5aa972aefcf903b1daa322965ef0729af611ab0e2359ab21ba150b",
+    "url": "https://github.com/sst/opencode/releases/download/v1.0.29/opencode-linux-x64-baseline.zip"
   },
   "pastel/linux/amd64": {
     "tag": "v0.11.0",
@@ -126,11 +126,17 @@
     "sha256": "9b8b049467a9c7b7f0e9277a27db1f4887649b2f81b5c703c5cfb11bae7be0da",
     "url": "https://github.com/tealdeer-rs/tealdeer/releases/download/v1.8.0/tealdeer-linux-x86_64-musl"
   },
+  "typst/linux/amd64": {
+    "tag": "v0.14.0",
+    "updated_at": "2025-11-05T17:53:34.547588",
+    "sha256": "99816d2982de08d2b091bac56b59b2faa523a10e1378ad3cdd68e35b8eb74b3d",
+    "url": "https://github.com/typst/typst/releases/download/v0.14.0/typst-x86_64-unknown-linux-musl.tar.xz"
+  },
   "uv/linux/amd64": {
-    "tag": "0.9.5",
-    "updated_at": "2025-10-28T10:03:35.178036",
-    "sha256": "3665ffb6c429c31ad6c778ac0489b7746e691acf025cf530b3510b2f9b1660ff",
-    "url": "https://github.com/astral-sh/uv/releases/download/0.9.5/uv-x86_64-unknown-linux-musl.tar.gz"
+    "tag": "0.9.7",
+    "updated_at": "2025-11-05T17:53:35.325801",
+    "sha256": "611d1e4d340c6b78519891d37d512c184f58b5424aebecdbd983585ff659ff16",
+    "url": "https://github.com/astral-sh/uv/releases/download/0.9.7/uv-x86_64-unknown-linux-musl.tar.gz"
   },
   "yq/linux/amd64": {
     "tag": "v4.48.1",

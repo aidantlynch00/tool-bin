@@ -25,6 +25,7 @@ tools:
   ghostty: pkgforge-dev/ghostty-appimage
   gum: charmbracelet/gum
   caligula: ifd3f/caligula
+  typst: typst/typst
 
   fastfetch:
     repo: fastfetch-cli/fastfetch
