@@ -97,10 +97,10 @@
     "url": "https://github.com/neovim/neovim/releases/download/v0.11.5/nvim-linux-x86_64.appimage"
   },
   "opencode/linux/amd64": {
-    "tag": "v1.0.29",
-    "updated_at": "2025-11-05T17:53:33.135651",
-    "sha256": "9480de7d4b5aa972aefcf903b1daa322965ef0729af611ab0e2359ab21ba150b",
-    "url": "https://github.com/sst/opencode/releases/download/v1.0.29/opencode-linux-x64-baseline.zip"
+    "tag": "v1.0.35",
+    "updated_at": "2025-11-06T09:29:03.971354",
+    "sha256": "b70baf38f82a62b94eb30813b1002201f69d099a40a2f944c33cd2eb2a767818",
+    "url": "https://github.com/sst/opencode/releases/download/v1.0.35/opencode-linux-x64-baseline.zip"
   },
   "pastel/linux/amd64": {
     "tag": "v0.11.0",

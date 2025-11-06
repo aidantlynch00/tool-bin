@@ -29,7 +29,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | [hyperfine](https://github.com/sharkdp/hyperfine) | sharkdp/hyperfine | 1.19.0 | Oct 22, 2025 | linux (amd64) |
 | [lazygit](https://github.com/jesseduffield/lazygit) | jesseduffield/lazygit | 0.56.0 | Nov 05, 2025 | linux (amd64) |
 | [nvim](https://github.com/neovim/neovim) | neovim/neovim | 0.11.5 | Nov 05, 2025 | linux (amd64) |
-| [opencode](https://github.com/sst/opencode) | sst/opencode | 1.0.29 | Nov 05, 2025 | linux (amd64) |
+| [opencode](https://github.com/sst/opencode) | sst/opencode | 1.0.35 | Nov 06, 2025 | linux (amd64) |
 | [pastel](https://github.com/sharkdp/pastel) | sharkdp/pastel | 0.11.0 | Oct 22, 2025 | linux (amd64) |
 | [rg](https://github.com/BurntSushi/ripgrep) | BurntSushi/ripgrep | 15.1.0 | Oct 28, 2025 | linux (amd64) |
 | [starship](https://github.com/starship/starship) | starship/starship | 1.24.0 | Oct 28, 2025 | linux (amd64) |
@@ -43,11 +43,11 @@ This repository contains command-line tools automatically managed by [dotbins](h
 
 ## Tool Statistics
 
-<div align='center'><h3>26 Tools | 483.41 MB Total Size</h3></div>
+<div align='center'><h3>26 Tools | 483.42 MB Total Size</h3></div>
 
 | Tool | Total Size | Avg Size per Architecture |
 | :--- | :-------- | :------------------------ |
-| opencode | 125.16 MB | 125.16 MB |
+| opencode | 125.17 MB | 125.17 MB |
 | ghostty | 88.3 MB | 88.3 MB |
 | uv | 51.3 MB | 51.3 MB |
 | typst | 48.47 MB | 48.47 MB |
@@ -139,5 +139,5 @@ For detailed usage information, run `dotbins --help` or `dotbins <command> --hel
 
 ## Additional Information
 
-* This README was automatically generated on Nov 05, 2025
+* This README was automatically generated on Nov 06, 2025
 * Current platform: **linux/amd64**
