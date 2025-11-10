@@ -22,10 +22,13 @@ tools:
   delta: dandavison/delta
   tldr: tealdeer-rs/tealdeer
   yq: mikefarah/yq
-  ghostty: pkgforge-dev/ghostty-appimage
   gum: charmbracelet/gum
   caligula: ifd3f/caligula
   typst: typst/typst
+
+  ghostty:
+    repo: pkgforge-dev/ghostty-appimage
+    tag: v1.1.2
 
   fastfetch:
     repo: fastfetch-cli/fastfetch
@@ -53,6 +56,7 @@ tools:
 
   nvim:
     repo: neovim/neovim
+    tag: nightly
     shell_code:
       bash: |
         export EDITOR="nvim"

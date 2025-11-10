@@ -50,7 +50,7 @@
   },
   "ghostty/linux/amd64": {
     "tag": "v1.1.2",
-    "updated_at": "2025-10-19T12:51:13.059399",
+    "updated_at": "2025-11-10T09:18:40.130366",
     "sha256": "0e8e0e051027d29160918d1d0c6de112d5a5dc61765b5c154fc44f54224689c3",
     "url": "https://github.com/pkgforge-dev/ghostty-appimage/releases/download/v1.1.2/Ghostty-1.1.2-x86_64.AppImage"
   },
@@ -91,16 +91,16 @@
     "url": "https://github.com/neovim/neovim/releases/download/v0.11.4/nvim-linux-x86_64.tar.gz"
   },
   "nvim/linux/amd64": {
-    "tag": "v0.11.5",
-    "updated_at": "2025-11-05T17:54:06.275955",
-    "sha256": "7a4adf657f0b775ee4f4de6c94353b4a0548a3c6b31049a20538e05d4eea411a",
-    "url": "https://github.com/neovim/neovim/releases/download/v0.11.5/nvim-linux-x86_64.appimage"
+    "tag": "nightly",
+    "updated_at": "2025-11-10T08:51:45.765643",
+    "sha256": "9f93608d7658e549613ce4b9b43506ced939fe4e6df441d59502b89b14f7aca3",
+    "url": "https://github.com/neovim/neovim/releases/download/nightly/nvim-linux-x86_64.appimage"
   },
   "opencode/linux/amd64": {
-    "tag": "v1.0.35",
-    "updated_at": "2025-11-06T09:29:03.971354",
-    "sha256": "b70baf38f82a62b94eb30813b1002201f69d099a40a2f944c33cd2eb2a767818",
-    "url": "https://github.com/sst/opencode/releases/download/v1.0.35/opencode-linux-x64-baseline.zip"
+    "tag": "v1.0.55",
+    "updated_at": "2025-11-10T08:50:02.240201",
+    "sha256": "a34fd1b308de69aaca36acdd1436a1855417410903daa66b3a6fb32d5a37e9e3",
+    "url": "https://github.com/sst/opencode/releases/download/v1.0.55/opencode-linux-x64-baseline.zip"
   },
   "pastel/linux/amd64": {
     "tag": "v0.11.0",
@@ -133,10 +133,10 @@
     "url": "https://github.com/typst/typst/releases/download/v0.14.0/typst-x86_64-unknown-linux-musl.tar.xz"
   },
   "uv/linux/amd64": {
-    "tag": "0.9.7",
-    "updated_at": "2025-11-05T17:53:35.325801",
-    "sha256": "611d1e4d340c6b78519891d37d512c184f58b5424aebecdbd983585ff659ff16",
-    "url": "https://github.com/astral-sh/uv/releases/download/0.9.7/uv-x86_64-unknown-linux-musl.tar.gz"
+    "tag": "0.9.8",
+    "updated_at": "2025-11-10T08:50:02.734092",
+    "sha256": "7763091b882874ae80d162ff77284032ce83174da68c3a759988c81e677e1286",
+    "url": "https://github.com/astral-sh/uv/releases/download/0.9.8/uv-x86_64-unknown-linux-musl.tar.gz"
   },
   "yq/linux/amd64": {
     "tag": "v4.48.1",

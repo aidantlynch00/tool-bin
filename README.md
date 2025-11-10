@@ -28,14 +28,14 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | [hexyl](https://github.com/sharkdp/hexyl) | sharkdp/hexyl | 0.16.0 | Oct 22, 2025 | linux (amd64) |
 | [hyperfine](https://github.com/sharkdp/hyperfine) | sharkdp/hyperfine | 1.19.0 | Oct 22, 2025 | linux (amd64) |
 | [lazygit](https://github.com/jesseduffield/lazygit) | jesseduffield/lazygit | 0.56.0 | Nov 05, 2025 | linux (amd64) |
-| [nvim](https://github.com/neovim/neovim) | neovim/neovim | 0.11.5 | Nov 05, 2025 | linux (amd64) |
-| [opencode](https://github.com/sst/opencode) | sst/opencode | 1.0.35 | Nov 06, 2025 | linux (amd64) |
+| [nvim](https://github.com/neovim/neovim) | neovim/neovim | nightly | Nov 10, 2025 | linux (amd64) |
+| [opencode](https://github.com/sst/opencode) | sst/opencode | 1.0.55 | Nov 10, 2025 | linux (amd64) |
 | [pastel](https://github.com/sharkdp/pastel) | sharkdp/pastel | 0.11.0 | Oct 22, 2025 | linux (amd64) |
 | [rg](https://github.com/BurntSushi/ripgrep) | BurntSushi/ripgrep | 15.1.0 | Oct 28, 2025 | linux (amd64) |
 | [starship](https://github.com/starship/starship) | starship/starship | 1.24.0 | Oct 28, 2025 | linux (amd64) |
 | [tldr](https://github.com/tealdeer-rs/tealdeer) | tealdeer-rs/tealdeer | 1.8.0 | Oct 20, 2025 | linux (amd64) |
 | [typst](https://github.com/typst/typst) | typst/typst | 0.14.0 | Nov 05, 2025 | linux (amd64) |
-| [uv](https://github.com/astral-sh/uv) | astral-sh/uv | 0.9.7 | Nov 05, 2025 | linux (amd64) |
+| [uv](https://github.com/astral-sh/uv) | astral-sh/uv | 0.9.8 | Nov 10, 2025 | linux (amd64) |
 | [yq](https://github.com/mikefarah/yq) | mikefarah/yq | 4.48.1 | Oct 20, 2025 | linux (amd64) |
 | [zellij](https://github.com/zellij-org/zellij) | zellij-org/zellij | 0.43.1 | Oct 19, 2025 | linux (amd64) |
 | [zellij-switch](https://github.com/mostafaqanbaryan/zellij-switch) | mostafaqanbaryan/zellij-switch | 0.2.1 | Oct 20, 2025 | linux (amd64) |
@@ -43,21 +43,21 @@ This repository contains command-line tools automatically managed by [dotbins](h
 
 ## Tool Statistics
 
-<div align='center'><h3>26 Tools | 483.42 MB Total Size</h3></div>
+<div align='center'><h3>26 Tools | 492.2 MB Total Size</h3></div>
 
 | Tool | Total Size | Avg Size per Architecture |
 | :--- | :-------- | :------------------------ |
-| opencode | 125.17 MB | 125.17 MB |
+| opencode | 125.94 MB | 125.94 MB |
 | ghostty | 88.3 MB | 88.3 MB |
-| uv | 51.3 MB | 51.3 MB |
+| uv | 51.13 MB | 51.13 MB |
 | typst | 48.47 MB | 48.47 MB |
 | zellij | 40.53 MB | 40.53 MB |
 | lazygit | 20.84 MB | 20.84 MB |
+| nvim | 18.69 MB | 18.69 MB |
 | gum | 13.1 MB | 13.1 MB |
 | git-lfs | 12.36 MB | 12.36 MB |
 | starship | 11.66 MB | 11.66 MB |
 | yq | 10.95 MB | 10.95 MB |
-| nvim | 10.51 MB | 10.51 MB |
 | delta | 6.85 MB | 6.85 MB |
 | bat | 6.61 MB | 6.61 MB |
 | rg | 5.19 MB | 5.19 MB |
@@ -139,5 +139,5 @@ For detailed usage information, run `dotbins --help` or `dotbins <command> --hel
 
 ## Additional Information
 
-* This README was automatically generated on Nov 06, 2025
+* This README was automatically generated on Nov 10, 2025
 * Current platform: **linux/amd64**
