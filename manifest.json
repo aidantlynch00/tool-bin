@@ -37,16 +37,16 @@
     "url": "https://github.com/eza-community/eza/releases/download/v0.23.4/eza_x86_64-unknown-linux-musl.tar.gz"
   },
   "fastfetch/linux/amd64": {
-    "tag": "2.54.0",
-    "updated_at": "2025-10-19T12:23:20.166757",
-    "sha256": "8290f72a67b0e65116969336fc4a356064eeca62eada76173535cbbecf75dd2e",
-    "url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.54.0/fastfetch-linux-amd64-polyfilled.tar.gz"
+    "tag": "2.55.1",
+    "updated_at": "2025-11-16T12:22:21.383159",
+    "sha256": "9d71f0ac0031afd844a3c394492c79b9d1fda7d37d56c4e9effb741e9a08c159",
+    "url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.55.1/fastfetch-linux-amd64-polyfilled.tar.gz"
   },
   "fzf/linux/amd64": {
-    "tag": "v0.66.1",
-    "updated_at": "2025-10-28T10:03:33.637442",
-    "sha256": "eca8d793061283122d79ff81baf996535c0bfbf7058253142aaf2578e56943ef",
-    "url": "https://github.com/junegunn/fzf/releases/download/v0.66.1/fzf-0.66.1-linux_amd64.tar.gz"
+    "tag": "v0.67.0",
+    "updated_at": "2025-11-16T12:22:21.458744",
+    "sha256": "4be08018ca37b32518c608741933ea335a406de3558242b60619e98f25be2be1",
+    "url": "https://github.com/junegunn/fzf/releases/download/v0.67.0/fzf-0.67.0-linux_amd64.tar.gz"
   },
   "ghostty/linux/amd64": {
     "tag": "v1.1.2",
@@ -84,6 +84,12 @@
     "sha256": "ced13c2ae074bbf6c201bc700ee2971e193b811c3b2ae0ed4d00d6225c6c9ab7",
     "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.56.0/lazygit_0.56.0_linux_x86_64.tar.gz"
   },
+  "mise/linux/amd64": {
+    "tag": "v2025.11.5",
+    "updated_at": "2025-11-16T12:22:22.320434",
+    "sha256": "3a750bf287747d2c978f23d245143ce9680caab6d147378fd5586b690aaef1ec",
+    "url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-linux-x64-musl.tar.gz"
+  },
   "neovim/linux/amd64": {
     "tag": "v0.11.4",
     "updated_at": "2025-10-19T12:23:24.468138",
@@ -97,10 +103,10 @@
     "url": "https://github.com/neovim/neovim/releases/download/nightly/nvim-linux-x86_64.appimage"
   },
   "opencode/linux/amd64": {
-    "tag": "v1.0.55",
-    "updated_at": "2025-11-10T08:50:02.240201",
-    "sha256": "a34fd1b308de69aaca36acdd1436a1855417410903daa66b3a6fb32d5a37e9e3",
-    "url": "https://github.com/sst/opencode/releases/download/v1.0.55/opencode-linux-x64-baseline.zip"
+    "tag": "v1.0.67",
+    "updated_at": "2025-11-16T12:22:23.765518",
+    "sha256": "d55244ce8b4a24578a3057e7c1aac42364f1a3060c50c87c27dd929bfb4dc8fe",
+    "url": "https://github.com/sst/opencode/releases/download/v1.0.67/opencode-linux-x64-baseline-musl.zip"
   },
   "pastel/linux/amd64": {
     "tag": "v0.11.0",
@@ -115,16 +121,16 @@
     "url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-x86_64-unknown-linux-musl.tar.gz"
   },
   "starship/linux/amd64": {
-    "tag": "v1.24.0",
-    "updated_at": "2025-10-28T10:03:34.767192",
-    "sha256": "8111d9c25e8b583284e1dacec4bfb50000323ea1a66453c6451ef026d76781cf",
-    "url": "https://github.com/starship/starship/releases/download/v1.24.0/starship-x86_64-unknown-linux-musl.tar.gz"
+    "tag": "v1.24.1",
+    "updated_at": "2025-11-16T12:22:23.977743",
+    "sha256": "44a729c34aea5b0451fba49108cdc5ef6b1ae68db65e7623cc244a52efcd23d1",
+    "url": "https://github.com/starship/starship/releases/download/v1.24.1/starship-x86_64-unknown-linux-musl.tar.gz"
   },
   "tldr/linux/amd64": {
-    "tag": "v1.8.0",
-    "updated_at": "2025-10-20T21:04:46.413751",
-    "sha256": "9b8b049467a9c7b7f0e9277a27db1f4887649b2f81b5c703c5cfb11bae7be0da",
-    "url": "https://github.com/tealdeer-rs/tealdeer/releases/download/v1.8.0/tealdeer-linux-x86_64-musl"
+    "tag": "v1.8.1",
+    "updated_at": "2025-11-16T12:22:24.023583",
+    "sha256": "6f2fad4435e0110484d3f25cdc4bf20129dae03238f32d06ebdd00bdc50ae2ed",
+    "url": "https://github.com/tealdeer-rs/tealdeer/releases/download/v1.8.1/tealdeer-linux-x86_64-musl"
   },
   "typst/linux/amd64": {
     "tag": "v0.14.0",
@@ -133,16 +139,16 @@
     "url": "https://github.com/typst/typst/releases/download/v0.14.0/typst-x86_64-unknown-linux-musl.tar.xz"
   },
   "uv/linux/amd64": {
-    "tag": "0.9.8",
-    "updated_at": "2025-11-10T08:50:02.734092",
-    "sha256": "7763091b882874ae80d162ff77284032ce83174da68c3a759988c81e677e1286",
-    "url": "https://github.com/astral-sh/uv/releases/download/0.9.8/uv-x86_64-unknown-linux-musl.tar.gz"
+    "tag": "0.9.9",
+    "updated_at": "2025-11-16T12:22:24.785172",
+    "sha256": "b0e4530c1fed09720d7eb703703047f097fe23d6b266945a98422f0a0e5c74b4",
+    "url": "https://github.com/astral-sh/uv/releases/download/0.9.9/uv-x86_64-unknown-linux-musl.tar.gz"
   },
   "yq/linux/amd64": {
-    "tag": "v4.48.1",
-    "updated_at": "2025-10-20T21:04:46.529784",
-    "sha256": "99df6047f5b577a9d25f969f7c3823ada3488de2e2115b30a0abb10d9324fd9f",
-    "url": "https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_linux_amd64"
+    "tag": "v4.48.2",
+    "updated_at": "2025-11-16T12:22:24.863309",
+    "sha256": "0ffc35320180d4911bc3a772934da508715e08af444cb33d4d43660065e25bcc",
+    "url": "https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_amd64"
   },
   "zellij-switch/linux/amd64": {
     "tag": "0.2.1",

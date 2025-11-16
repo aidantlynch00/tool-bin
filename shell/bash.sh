@@ -17,6 +17,11 @@ ln -sf "$tool_bin" "$curr_dir"
 export PATH="$curr_dir/bin:$PATH"
 
 # Tool-specific configurations
+# Configuration for mise
+if command -v mise >/dev/null 2>&1; then
+    eval "$(mise activate bash)"
+fi
+
 # Configuration for fastfetch
 if command -v fastfetch >/dev/null 2>&1; then
     fastfetch

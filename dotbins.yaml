@@ -26,6 +26,12 @@ tools:
   caligula: ifd3f/caligula
   typst: typst/typst
 
+  mise:
+    repo: jdx/mise
+    shell_code:
+      bash: |
+        eval "$(mise activate bash)"
+
   ghostty:
     repo: pkgforge-dev/ghostty-appimage
     tag: v1.1.2
