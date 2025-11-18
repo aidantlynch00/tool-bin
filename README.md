@@ -30,7 +30,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | [lazygit](https://github.com/jesseduffield/lazygit) | jesseduffield/lazygit | 0.56.0 | Nov 05, 2025 | linux (amd64) |
 | [mise](https://github.com/jdx/mise) | jdx/mise | 2025.11.5 | Nov 16, 2025 | linux (amd64) |
 | [nvim](https://github.com/neovim/neovim) | neovim/neovim | nightly | Nov 10, 2025 | linux (amd64) |
-| [opencode](https://github.com/sst/opencode) | sst/opencode | 1.0.70 | Nov 17, 2025 | linux (amd64) |
+| [opencode](https://github.com/sst/opencode) | sst/opencode | 1.0.71 | Nov 17, 2025 | linux (amd64) |
 | [pastel](https://github.com/sharkdp/pastel) | sharkdp/pastel | 0.11.0 | Oct 22, 2025 | linux (amd64) |
 | [rg](https://github.com/BurntSushi/ripgrep) | BurntSushi/ripgrep | 15.1.0 | Oct 28, 2025 | linux (amd64) |
 | [starship](https://github.com/starship/starship) | starship/starship | 1.24.1 | Nov 16, 2025 | linux (amd64) |
@@ -44,11 +44,11 @@ This repository contains command-line tools automatically managed by [dotbins](h
 
 ## Tool Statistics
 
-<div align='center'><h3>27 Tools | 548.68 MB Total Size</h3></div>
+<div align='center'><h3>27 Tools | 555.68 MB Total Size</h3></div>
 
 | Tool | Total Size | Avg Size per Architecture |
 | :--- | :-------- | :------------------------ |
-| opencode | 119.77 MB | 119.77 MB |
+| opencode | 126.76 MB | 126.76 MB |
 | ghostty | 88.3 MB | 88.3 MB |
 | mise | 62.46 MB | 62.46 MB |
 | uv | 51.34 MB | 51.34 MB |

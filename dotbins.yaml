@@ -50,6 +50,11 @@ tools:
 
   opencode:
     repo: sst/opencode
+    platform_map:
+      macos: darwin
+    arch_map:
+      amd64: x64
+    asset_patterns: opencode-{platform}-{arch}-baseline.zip
     shell_code:
       bash: |
         source ~/.tool-bin/setup/opencode.sh
