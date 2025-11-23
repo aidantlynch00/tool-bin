@@ -23,6 +23,7 @@ tools:
   tldr: tealdeer-rs/tealdeer
   yq: mikefarah/yq
   gum: charmbracelet/gum
+  glow: charmbracelet/glow
   caligula: ifd3f/caligula
   typst: typst/typst
 

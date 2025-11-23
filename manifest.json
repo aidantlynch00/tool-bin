@@ -60,6 +60,12 @@
     "sha256": "1c0b6ee5200ca708c5cebebb18fdeb0e1c98f1af5c1a9cba205a4c0ab5a5ec08",
     "url": "https://github.com/git-lfs/git-lfs/releases/download/v3.7.1/git-lfs-linux-amd64-v3.7.1.tar.gz"
   },
+  "glow/linux/amd64": {
+    "tag": "v2.1.1",
+    "updated_at": "2025-11-23T18:43:07.126817",
+    "sha256": "59106b08be69b2a0bda1178327bbb7accd584e7c113ba3d2f5ef6e48ff3ac27f",
+    "url": "https://github.com/charmbracelet/glow/releases/download/v2.1.1/glow_2.1.1_Linux_x86_64.tar.gz"
+  },
   "gum/linux/amd64": {
     "tag": "v0.17.0",
     "updated_at": "2025-10-22T19:26:02.922314",
@@ -98,8 +104,8 @@
   },
   "nvim/linux/amd64": {
     "tag": "nightly",
-    "updated_at": "2025-11-10T08:51:45.765643",
-    "sha256": "9f93608d7658e549613ce4b9b43506ced939fe4e6df441d59502b89b14f7aca3",
+    "updated_at": "2025-11-23T18:44:11.240799",
+    "sha256": "b133af42f534a05b16a85f556ac0a53bc409e62f6006bab6c2e54b98d45a16ca",
     "url": "https://github.com/neovim/neovim/releases/download/nightly/nvim-linux-x86_64.appimage"
   },
   "opencode/linux/amd64": {
