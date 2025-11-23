@@ -73,10 +73,10 @@
     "url": "https://github.com/sharkdp/hexyl/releases/download/v0.16.0/hexyl-v0.16.0-x86_64-unknown-linux-musl.tar.gz"
   },
   "hyperfine/linux/amd64": {
-    "tag": "v1.19.0",
-    "updated_at": "2025-10-22T19:31:39.013930",
-    "sha256": "825287143f397774093539ca2458854ab3735c0e8a1aaf075c22edce7d261556",
-    "url": "https://github.com/sharkdp/hyperfine/releases/download/v1.19.0/hyperfine-v1.19.0-x86_64-unknown-linux-musl.tar.gz"
+    "tag": "v1.20.0",
+    "updated_at": "2025-11-23T18:23:46.660603",
+    "sha256": "3285ec7959285288137043dd81dce0dde056227018a8277532d9a364b4f03c2b",
+    "url": "https://github.com/sharkdp/hyperfine/releases/download/v1.20.0/hyperfine-v1.20.0-x86_64-unknown-linux-musl.tar.gz"
   },
   "lazygit/linux/amd64": {
     "tag": "v0.56.0",
@@ -85,10 +85,10 @@
     "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.56.0/lazygit_0.56.0_linux_x86_64.tar.gz"
   },
   "mise/linux/amd64": {
-    "tag": "v2025.11.5",
-    "updated_at": "2025-11-16T12:22:22.320434",
-    "sha256": "3a750bf287747d2c978f23d245143ce9680caab6d147378fd5586b690aaef1ec",
-    "url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-linux-x64-musl.tar.gz"
+    "tag": "v2025.11.7",
+    "updated_at": "2025-11-23T18:23:47.732261",
+    "sha256": "8f39d0c3608aa6bdf2091709fb7e901042a6f9cdde0de1f551f6e195a171a9ce",
+    "url": "https://github.com/jdx/mise/releases/download/v2025.11.7/mise-v2025.11.7-linux-x64-musl.tar.gz"
   },
   "neovim/linux/amd64": {
     "tag": "v0.11.4",
@@ -103,10 +103,10 @@
     "url": "https://github.com/neovim/neovim/releases/download/nightly/nvim-linux-x86_64.appimage"
   },
   "opencode/linux/amd64": {
-    "tag": "v1.0.71",
-    "updated_at": "2025-11-17T21:11:55.409156",
-    "sha256": "28e3aa31d51f64b8c304ce14aa74010e500875e39b3a60785aa7c6bcffb9b691",
-    "url": "https://github.com/sst/opencode/releases/download/v1.0.71/opencode-linux-x64-baseline.zip"
+    "tag": "v1.0.106",
+    "updated_at": "2025-11-23T18:26:40.618475",
+    "sha256": "a0d5f1619205c620e15e70b6dd692d66dc4882bdc70ceb00b11ce47cc6864f98",
+    "url": "https://github.com/sst/opencode/releases/download/v1.0.106/opencode-linux-x64-baseline.tar.gz"
   },
   "pastel/linux/amd64": {
     "tag": "v0.11.0",
@@ -139,16 +139,16 @@
     "url": "https://github.com/typst/typst/releases/download/v0.14.0/typst-x86_64-unknown-linux-musl.tar.xz"
   },
   "uv/linux/amd64": {
-    "tag": "0.9.10",
-    "updated_at": "2025-11-17T20:49:40.836758",
-    "sha256": "e614681a150d52446eb8f4cf34f90b5d42b609bd1f2615da049449d795bfe5b4",
-    "url": "https://github.com/astral-sh/uv/releases/download/0.9.10/uv-x86_64-unknown-linux-musl.tar.gz"
+    "tag": "0.9.11",
+    "updated_at": "2025-11-23T18:23:48.525941",
+    "sha256": "5cc06fe71374a8883aeb2c83a141a4b5fac8584ee894ba31c5792254508b4e9a",
+    "url": "https://github.com/astral-sh/uv/releases/download/0.9.11/uv-x86_64-unknown-linux-musl.tar.gz"
   },
   "yq/linux/amd64": {
-    "tag": "v4.48.2",
-    "updated_at": "2025-11-16T12:22:24.863309",
-    "sha256": "0ffc35320180d4911bc3a772934da508715e08af444cb33d4d43660065e25bcc",
-    "url": "https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_amd64"
+    "tag": "v4.49.1",
+    "updated_at": "2025-11-23T18:23:49.410069",
+    "sha256": "897045e4a42933951ea8e143c44ea3f7f8005aa25105c4fbd796c3d61ee163ec",
+    "url": "https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_amd64"
   },
   "zellij-switch/linux/amd64": {
     "tag": "0.2.1",
