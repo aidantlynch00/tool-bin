@@ -14,6 +14,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 
 | Tool | Repository | Version | Updated | Platforms & Architectures |
 | :--- | :--------- | :------ | :------ | :------------------------ |
+| [atac](https://github.com/Julien-cpsn/ATAC) | Julien-cpsn/ATAC | 0.22.1 | Dec 02, 2025 | linux (amd64) |
 | [bat](https://github.com/sharkdp/bat) | sharkdp/bat | 0.26.0 | Oct 28, 2025 | linux (amd64) |
 | [caligula](https://github.com/ifd3f/caligula) | ifd3f/caligula | 0.4.10 | Oct 24, 2025 | linux (amd64) |
 | [delta](https://github.com/dandavison/delta) | dandavison/delta | 0.18.2 | Oct 20, 2025 | linux (amd64) |
@@ -45,7 +46,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 
 ## Tool Statistics
 
-<div align='center'><h3>28 Tools | 579.43 MB Total Size</h3></div>
+<div align='center'><h3>29 Tools | 594.43 MB Total Size</h3></div>
 
 | Tool | Total Size | Avg Size per Architecture |
 | :--- | :-------- | :------------------------ |
@@ -58,6 +59,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | lazygit | 20.84 MB | 20.84 MB |
 | nvim | 18.69 MB | 18.69 MB |
 | glow | 16.67 MB | 16.67 MB |
+| atac | 15.0 MB | 15.0 MB |
 | gum | 13.1 MB | 13.1 MB |
 | git-lfs | 12.36 MB | 12.36 MB |
 | starship | 11.59 MB | 11.59 MB |
@@ -143,5 +145,5 @@ For detailed usage information, run `dotbins --help` or `dotbins <command> --hel
 
 ## Additional Information
 
-* This README was automatically generated on Dec 01, 2025
+* This README was automatically generated on Dec 02, 2025
 * Current platform: **linux/amd64**

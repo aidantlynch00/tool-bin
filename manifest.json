@@ -1,5 +1,11 @@
 {
   "version": 2,
+  "atac/linux/amd64": {
+    "tag": "v0.22.1",
+    "updated_at": "2025-12-02T10:42:08.768113",
+    "sha256": "ced1d7c669eeac241c9221f7795ae58aa0c5c73c43c054d8a1038e8dc11af709",
+    "url": "https://github.com/Julien-cpsn/ATAC/releases/download/v0.22.1/atac-v0.22.1-x86_64-unknown-linux-musl.tar.gz"
+  },
   "bat/linux/amd64": {
     "tag": "v0.26.0",
     "updated_at": "2025-10-28T10:03:33.599585",

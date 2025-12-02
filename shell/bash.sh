@@ -17,6 +17,11 @@ ln -sf "$tool_bin" "$curr_dir"
 export PATH="$curr_dir/bin:$PATH"
 
 # Tool-specific configurations
+# Configuration for atac
+if command -v atac >/dev/null 2>&1; then
+    export ATAC_KEY_BINDINGS=$HOME/.config/atac/keybinds.toml
+fi
+
 # Configuration for mise
 if command -v mise >/dev/null 2>&1; then
     eval "$(mise activate bash)"

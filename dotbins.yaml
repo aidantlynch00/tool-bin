@@ -27,6 +27,12 @@ tools:
   caligula: ifd3f/caligula
   typst: typst/typst
 
+  atac:
+    repo: Julien-cpsn/ATAC
+    shell_code:
+      bash: |
+        export ATAC_KEY_BINDINGS=$HOME/.config/atac/keybinds.toml
+
   mise:
     repo: jdx/mise
     shell_code:
