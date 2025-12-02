@@ -29,30 +29,30 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | [hexyl](https://github.com/sharkdp/hexyl) | sharkdp/hexyl | 0.16.0 | Oct 22, 2025 | linux (amd64) |
 | [hyperfine](https://github.com/sharkdp/hyperfine) | sharkdp/hyperfine | 1.20.0 | Nov 23, 2025 | linux (amd64) |
 | [lazygit](https://github.com/jesseduffield/lazygit) | jesseduffield/lazygit | 0.56.0 | Nov 05, 2025 | linux (amd64) |
-| [mise](https://github.com/jdx/mise) | jdx/mise | 2025.11.7 | Nov 23, 2025 | linux (amd64) |
+| [mise](https://github.com/jdx/mise) | jdx/mise | 2025.11.11 | Dec 01, 2025 | linux (amd64) |
 | [nvim](https://github.com/neovim/neovim) | neovim/neovim | nightly | Nov 23, 2025 | linux (amd64) |
-| [opencode](https://github.com/sst/opencode) | sst/opencode | 1.0.106 | Nov 23, 2025 | linux (amd64) |
+| [opencode](https://github.com/sst/opencode) | sst/opencode | 1.0.126 | Dec 01, 2025 | linux (amd64) |
 | [pastel](https://github.com/sharkdp/pastel) | sharkdp/pastel | 0.11.0 | Oct 22, 2025 | linux (amd64) |
 | [rg](https://github.com/BurntSushi/ripgrep) | BurntSushi/ripgrep | 15.1.0 | Oct 28, 2025 | linux (amd64) |
 | [starship](https://github.com/starship/starship) | starship/starship | 1.24.1 | Nov 16, 2025 | linux (amd64) |
 | [tldr](https://github.com/tealdeer-rs/tealdeer) | tealdeer-rs/tealdeer | 1.8.1 | Nov 16, 2025 | linux (amd64) |
 | [typst](https://github.com/typst/typst) | typst/typst | 0.14.0 | Nov 05, 2025 | linux (amd64) |
-| [uv](https://github.com/astral-sh/uv) | astral-sh/uv | 0.9.11 | Nov 23, 2025 | linux (amd64) |
-| [yq](https://github.com/mikefarah/yq) | mikefarah/yq | 4.49.1 | Nov 23, 2025 | linux (amd64) |
+| [uv](https://github.com/astral-sh/uv) | astral-sh/uv | 0.9.14 | Dec 01, 2025 | linux (amd64) |
+| [yq](https://github.com/mikefarah/yq) | mikefarah/yq | 4.49.2 | Dec 01, 2025 | linux (amd64) |
 | [zellij](https://github.com/zellij-org/zellij) | zellij-org/zellij | 0.43.1 | Oct 19, 2025 | linux (amd64) |
 | [zellij-switch](https://github.com/mostafaqanbaryan/zellij-switch) | mostafaqanbaryan/zellij-switch | 0.2.1 | Oct 20, 2025 | linux (amd64) |
 | [zjstatus](https://github.com/dj95/zjstatus) | dj95/zjstatus | 0.21.1 | Oct 20, 2025 | linux (amd64) |
 
 ## Tool Statistics
 
-<div align='center'><h3>28 Tools | 573.08 MB Total Size</h3></div>
+<div align='center'><h3>28 Tools | 579.43 MB Total Size</h3></div>
 
 | Tool | Total Size | Avg Size per Architecture |
 | :--- | :-------- | :------------------------ |
-| opencode | 126.78 MB | 126.78 MB |
+| opencode | 132.69 MB | 132.69 MB |
 | ghostty | 88.3 MB | 88.3 MB |
-| mise | 62.55 MB | 62.55 MB |
-| uv | 51.95 MB | 51.95 MB |
+| mise | 62.87 MB | 62.87 MB |
+| uv | 52.08 MB | 52.08 MB |
 | typst | 48.47 MB | 48.47 MB |
 | zellij | 40.53 MB | 40.53 MB |
 | lazygit | 20.84 MB | 20.84 MB |
@@ -143,5 +143,5 @@ For detailed usage information, run `dotbins --help` or `dotbins <command> --hel
 
 ## Additional Information
 
-* This README was automatically generated on Nov 23, 2025
+* This README was automatically generated on Dec 01, 2025
 * Current platform: **linux/amd64**

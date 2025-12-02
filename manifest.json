@@ -91,10 +91,10 @@
     "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.56.0/lazygit_0.56.0_linux_x86_64.tar.gz"
   },
   "mise/linux/amd64": {
-    "tag": "v2025.11.7",
-    "updated_at": "2025-11-23T18:23:47.732261",
-    "sha256": "8f39d0c3608aa6bdf2091709fb7e901042a6f9cdde0de1f551f6e195a171a9ce",
-    "url": "https://github.com/jdx/mise/releases/download/v2025.11.7/mise-v2025.11.7-linux-x64-musl.tar.gz"
+    "tag": "v2025.11.11",
+    "updated_at": "2025-12-01T20:27:24.571118",
+    "sha256": "b3d0ada98b5319ca9e1095d8761ab10c8854fdd5c7487e85cbb7e6972a69ffea",
+    "url": "https://github.com/jdx/mise/releases/download/v2025.11.11/mise-v2025.11.11-linux-x64-musl.tar.gz"
   },
   "neovim/linux/amd64": {
     "tag": "v0.11.4",
@@ -109,10 +109,10 @@
     "url": "https://github.com/neovim/neovim/releases/download/nightly/nvim-linux-x86_64.appimage"
   },
   "opencode/linux/amd64": {
-    "tag": "v1.0.106",
-    "updated_at": "2025-11-23T18:26:40.618475",
-    "sha256": "a0d5f1619205c620e15e70b6dd692d66dc4882bdc70ceb00b11ce47cc6864f98",
-    "url": "https://github.com/sst/opencode/releases/download/v1.0.106/opencode-linux-x64-baseline.tar.gz"
+    "tag": "v1.0.126",
+    "updated_at": "2025-12-01T20:27:26.577175",
+    "sha256": "20416a35e21644a4748ae2744849c066889966d395a333312b50d8615bc49a2d",
+    "url": "https://github.com/sst/opencode/releases/download/v1.0.126/opencode-linux-x64-baseline.tar.gz"
   },
   "pastel/linux/amd64": {
     "tag": "v0.11.0",
@@ -145,16 +145,16 @@
     "url": "https://github.com/typst/typst/releases/download/v0.14.0/typst-x86_64-unknown-linux-musl.tar.xz"
   },
   "uv/linux/amd64": {
-    "tag": "0.9.11",
-    "updated_at": "2025-11-23T18:23:48.525941",
-    "sha256": "5cc06fe71374a8883aeb2c83a141a4b5fac8584ee894ba31c5792254508b4e9a",
-    "url": "https://github.com/astral-sh/uv/releases/download/0.9.11/uv-x86_64-unknown-linux-musl.tar.gz"
+    "tag": "0.9.14",
+    "updated_at": "2025-12-01T20:27:28.938776",
+    "sha256": "2b9636963c700a595d476e387eb8041973d30c5add3193a8710a4306442ee74b",
+    "url": "https://github.com/astral-sh/uv/releases/download/0.9.14/uv-x86_64-unknown-linux-musl.tar.gz"
   },
   "yq/linux/amd64": {
-    "tag": "v4.49.1",
-    "updated_at": "2025-11-23T18:23:49.410069",
-    "sha256": "897045e4a42933951ea8e143c44ea3f7f8005aa25105c4fbd796c3d61ee163ec",
-    "url": "https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_amd64"
+    "tag": "v4.49.2",
+    "updated_at": "2025-12-01T20:27:29.015738",
+    "sha256": "be2c0ddcf426b6a231648610ec5d1666ae50e9f6473e82f6486f9f4cb6e3e2f7",
+    "url": "https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_linux_amd64"
   },
   "zellij-switch/linux/amd64": {
     "tag": "0.2.1",
