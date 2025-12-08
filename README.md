@@ -42,11 +42,12 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | [yq](https://github.com/mikefarah/yq) | mikefarah/yq | 4.49.2 | Dec 01, 2025 | linux (amd64) |
 | [zellij](https://github.com/zellij-org/zellij) | zellij-org/zellij | 0.43.1 | Oct 19, 2025 | linux (amd64) |
 | [zellij-switch](https://github.com/mostafaqanbaryan/zellij-switch) | mostafaqanbaryan/zellij-switch | 0.2.1 | Oct 20, 2025 | linux (amd64) |
+| [zestty](https://github.com/aidantlynch00/zestty) | aidantlynch00/zestty | 0.1.0-beta | Dec 08, 2025 | linux (amd64) |
 | [zjstatus](https://github.com/dj95/zjstatus) | dj95/zjstatus | 0.21.1 | Oct 20, 2025 | linux (amd64) |
 
 ## Tool Statistics
 
-<div align='center'><h3>29 Tools | 594.43 MB Total Size</h3></div>
+<div align='center'><h3>30 Tools | 594.44 MB Total Size</h3></div>
 
 | Tool | Total Size | Avg Size per Architecture |
 | :--- | :-------- | :------------------------ |
@@ -79,6 +80,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | pastel | 1.31 MB | 1.31 MB |
 | hexyl | 1.17 MB | 1.17 MB |
 | zellij-switch | 914.3 KB | 914.3 KB |
+| zestty | 13.21 KB | 13.21 KB |
 
 ## Shell Integration
 
@@ -145,5 +147,5 @@ For detailed usage information, run `dotbins --help` or `dotbins <command> --hel
 
 ## Additional Information
 
-* This README was automatically generated on Dec 02, 2025
+* This README was automatically generated on Dec 08, 2025
 * Current platform: **linux/amd64**

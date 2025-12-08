@@ -27,6 +27,13 @@ tools:
   caligula: ifd3f/caligula
   typst: typst/typst
 
+  zestty:
+    repo: aidantlynch00/zestty
+    tag: v0.1.0-beta
+    shell_code:
+      bash: |
+        source $HOME/.tool-bin/setup/zestty.sh
+
   atac:
     repo: Julien-cpsn/ATAC
     shell_code:
@@ -63,13 +70,13 @@ tools:
       linux: opencode-{platform}-{arch}-baseline.tar.gz
     shell_code:
       bash: |
-        source ~/.tool-bin/setup/opencode.sh
+        source $HOME/.tool-bin/setup/opencode.sh
 
   fzf:
     repo: junegunn/fzf
     shell_code:
       bash: |
-        source ~/.tool-bin/setup/fzf.sh
+        source $HOME/.tool-bin/setup/fzf.sh
 
   nvim:
     repo: neovim/neovim
@@ -101,7 +108,7 @@ tools:
     repo: starship/starship
     shell_code:
       bash: |
-        source ~/.tool-bin/setup/starship.sh
+        source $HOME/.tool-bin/setup/starship.sh
 
   uv:
     repo: astral-sh/uv
