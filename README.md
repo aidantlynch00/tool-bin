@@ -15,13 +15,13 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | Tool | Repository | Version | Updated | Platforms & Architectures |
 | :--- | :--------- | :------ | :------ | :------------------------ |
 | [atac](https://github.com/Julien-cpsn/ATAC) | Julien-cpsn/ATAC | 0.22.1 | Dec 02, 2025 | linux (amd64) |
-| [bat](https://github.com/sharkdp/bat) | sharkdp/bat | 0.26.0 | Oct 28, 2025 | linux (amd64) |
+| [bat](https://github.com/sharkdp/bat) | sharkdp/bat | 0.26.1 | Dec 09, 2025 | linux (amd64) |
 | [caligula](https://github.com/ifd3f/caligula) | ifd3f/caligula | 0.4.10 | Oct 24, 2025 | linux (amd64) |
 | [delta](https://github.com/dandavison/delta) | dandavison/delta | 0.18.2 | Oct 20, 2025 | linux (amd64) |
 | [duf](https://github.com/muesli/duf) | muesli/duf | 0.9.1 | Oct 20, 2025 | linux (amd64) |
 | [dust](https://github.com/bootandy/dust) | bootandy/dust | 1.2.3 | Oct 20, 2025 | linux (amd64) |
 | [eza](https://github.com/eza-community/eza) | eza-community/eza | 0.23.4 | Oct 20, 2025 | linux (amd64) |
-| [fastfetch](https://github.com/fastfetch-cli/fastfetch) | fastfetch-cli/fastfetch | 2.55.1 | Nov 16, 2025 | linux (amd64) |
+| [fastfetch](https://github.com/fastfetch-cli/fastfetch) | fastfetch-cli/fastfetch | 2.56.0 | Dec 09, 2025 | linux (amd64) |
 | [fzf](https://github.com/junegunn/fzf) | junegunn/fzf | 0.67.0 | Nov 16, 2025 | linux (amd64) |
 | [ghostty](https://github.com/pkgforge-dev/ghostty-appimage) | pkgforge-dev/ghostty-appimage | 1.1.2 | Nov 10, 2025 | linux (amd64) |
 | [git-lfs](https://github.com/git-lfs/git-lfs) | git-lfs/git-lfs | 3.7.1 | Oct 19, 2025 | linux (amd64) |
@@ -29,16 +29,16 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | [gum](https://github.com/charmbracelet/gum) | charmbracelet/gum | 0.17.0 | Oct 22, 2025 | linux (amd64) |
 | [hexyl](https://github.com/sharkdp/hexyl) | sharkdp/hexyl | 0.16.0 | Oct 22, 2025 | linux (amd64) |
 | [hyperfine](https://github.com/sharkdp/hyperfine) | sharkdp/hyperfine | 1.20.0 | Nov 23, 2025 | linux (amd64) |
-| [lazygit](https://github.com/jesseduffield/lazygit) | jesseduffield/lazygit | 0.56.0 | Nov 05, 2025 | linux (amd64) |
-| [mise](https://github.com/jdx/mise) | jdx/mise | 2025.11.11 | Dec 01, 2025 | linux (amd64) |
-| [nvim](https://github.com/neovim/neovim) | neovim/neovim | nightly | Nov 23, 2025 | linux (amd64) |
-| [opencode](https://github.com/sst/opencode) | sst/opencode | 1.0.126 | Dec 01, 2025 | linux (amd64) |
+| [lazygit](https://github.com/jesseduffield/lazygit) | jesseduffield/lazygit | 0.57.0 | Dec 09, 2025 | linux (amd64) |
+| [mise](https://github.com/jdx/mise) | jdx/mise | 2025.12.1 | Dec 09, 2025 | linux (amd64) |
+| [nvim](https://github.com/neovim/neovim) | neovim/neovim | nightly | Dec 09, 2025 | linux (amd64) |
+| [opencode](https://github.com/sst/opencode) | sst/opencode | 1.0.137 | Dec 09, 2025 | linux (amd64) |
 | [pastel](https://github.com/sharkdp/pastel) | sharkdp/pastel | 0.11.0 | Oct 22, 2025 | linux (amd64) |
 | [rg](https://github.com/BurntSushi/ripgrep) | BurntSushi/ripgrep | 15.1.0 | Oct 28, 2025 | linux (amd64) |
 | [starship](https://github.com/starship/starship) | starship/starship | 1.24.1 | Nov 16, 2025 | linux (amd64) |
 | [tldr](https://github.com/tealdeer-rs/tealdeer) | tealdeer-rs/tealdeer | 1.8.1 | Nov 16, 2025 | linux (amd64) |
-| [typst](https://github.com/typst/typst) | typst/typst | 0.14.0 | Nov 05, 2025 | linux (amd64) |
-| [uv](https://github.com/astral-sh/uv) | astral-sh/uv | 0.9.14 | Dec 01, 2025 | linux (amd64) |
+| [typst](https://github.com/typst/typst) | typst/typst | 0.14.1 | Dec 09, 2025 | linux (amd64) |
+| [uv](https://github.com/astral-sh/uv) | astral-sh/uv | 0.9.16 | Dec 09, 2025 | linux (amd64) |
 | [yq](https://github.com/mikefarah/yq) | mikefarah/yq | 4.49.2 | Dec 01, 2025 | linux (amd64) |
 | [zellij](https://github.com/zellij-org/zellij) | zellij-org/zellij | 0.43.1 | Oct 19, 2025 | linux (amd64) |
 | [zellij-switch](https://github.com/mostafaqanbaryan/zellij-switch) | mostafaqanbaryan/zellij-switch | 0.2.1 | Oct 20, 2025 | linux (amd64) |
@@ -47,18 +47,18 @@ This repository contains command-line tools automatically managed by [dotbins](h
 
 ## Tool Statistics
 
-<div align='center'><h3>30 Tools | 594.44 MB Total Size</h3></div>
+<div align='center'><h3>30 Tools | 596.85 MB Total Size</h3></div>
 
 | Tool | Total Size | Avg Size per Architecture |
 | :--- | :-------- | :------------------------ |
-| opencode | 132.69 MB | 132.69 MB |
+| opencode | 134.09 MB | 134.09 MB |
 | ghostty | 88.3 MB | 88.3 MB |
-| mise | 62.87 MB | 62.87 MB |
-| uv | 52.08 MB | 52.08 MB |
-| typst | 48.47 MB | 48.47 MB |
+| mise | 63.19 MB | 63.19 MB |
+| uv | 52.75 MB | 52.75 MB |
+| typst | 48.53 MB | 48.53 MB |
 | zellij | 40.53 MB | 40.53 MB |
-| lazygit | 20.84 MB | 20.84 MB |
-| nvim | 18.69 MB | 18.69 MB |
+| lazygit | 20.75 MB | 20.75 MB |
+| nvim | 18.73 MB | 18.73 MB |
 | glow | 16.67 MB | 16.67 MB |
 | atac | 15.0 MB | 15.0 MB |
 | gum | 13.1 MB | 13.1 MB |
@@ -66,7 +66,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | starship | 11.59 MB | 11.59 MB |
 | yq | 10.97 MB | 10.97 MB |
 | delta | 6.85 MB | 6.85 MB |
-| bat | 6.61 MB | 6.61 MB |
+| bat | 6.59 MB | 6.59 MB |
 | rg | 5.19 MB | 5.19 MB |
 | zjstatus | 4.28 MB | 4.28 MB |
 | fzf | 4.21 MB | 4.21 MB |
@@ -74,7 +74,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | tldr | 3.4 MB | 3.4 MB |
 | dust | 3.07 MB | 3.07 MB |
 | duf | 2.98 MB | 2.98 MB |
-| fastfetch | 2.63 MB | 2.63 MB |
+| fastfetch | 2.64 MB | 2.64 MB |
 | eza | 2.38 MB | 2.38 MB |
 | hyperfine | 1.4 MB | 1.4 MB |
 | pastel | 1.31 MB | 1.31 MB |
@@ -147,5 +147,5 @@ For detailed usage information, run `dotbins --help` or `dotbins <command> --hel
 
 ## Additional Information
 
-* This README was automatically generated on Dec 08, 2025
+* This README was automatically generated on Dec 09, 2025
 * Current platform: **linux/amd64**
