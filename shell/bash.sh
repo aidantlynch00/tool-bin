@@ -19,7 +19,7 @@ export PATH="$curr_dir/bin:$PATH"
 # Tool-specific configurations
 # Configuration for zestty
 if command -v zestty >/dev/null 2>&1; then
-    source $HOME/.tool-bin/setup/zestty.sh
+    source $HOME/.tool-bin/setup/bash/zestty.sh
 fi
 
 # Configuration for atac
@@ -44,12 +44,12 @@ fi
 
 # Configuration for opencode
 if command -v opencode >/dev/null 2>&1; then
-    source $HOME/.tool-bin/setup/opencode.sh
+    source $HOME/.tool-bin/setup/bash/opencode.sh
 fi
 
 # Configuration for fzf
 if command -v fzf >/dev/null 2>&1; then
-    source $HOME/.tool-bin/setup/fzf.sh
+    source $HOME/.tool-bin/setup/bash/fzf.sh
 fi
 
 # Configuration for nvim
@@ -67,6 +67,6 @@ fi
 
 # Configuration for starship
 if command -v starship >/dev/null 2>&1; then
-    source $HOME/.tool-bin/setup/starship.sh
+    source $HOME/.tool-bin/setup/bash/starship.sh
 fi
 
