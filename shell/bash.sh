@@ -15,7 +15,6 @@ curr_dir="$tool_dir/current"
 mkdir -p "$curr_dir"
 ln -sf "$tool_bin" "$curr_dir"
 export PATH="$curr_dir/bin:$PATH"
-export TOOL_BIN_SCRIPT_DIR="$tool_dir/scripts/bash"
 
 # Tool-specific configurations
 # Configuration for zestty

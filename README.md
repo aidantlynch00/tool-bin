@@ -42,7 +42,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | [yq](https://github.com/mikefarah/yq) | mikefarah/yq | 4.49.2 | Dec 01, 2025 | linux (amd64) |
 | [zellij](https://github.com/zellij-org/zellij) | zellij-org/zellij | 0.43.1 | Oct 19, 2025 | linux (amd64) |
 | [zellij-switch](https://github.com/mostafaqanbaryan/zellij-switch) | mostafaqanbaryan/zellij-switch | 0.2.1 | Oct 20, 2025 | linux (amd64) |
-| [zestty](https://github.com/aidantlynch00/zestty) | aidantlynch00/zestty | 0.1.0-beta | Dec 08, 2025 | linux (amd64) |
+| [zestty](https://github.com/aidantlynch00/zestty) | aidantlynch00/zestty | 0.1.0-pre | Dec 13, 2025 | linux (amd64) |
 | [zjstatus](https://github.com/dj95/zjstatus) | dj95/zjstatus | 0.21.1 | Oct 20, 2025 | linux (amd64) |
 
 ## Tool Statistics
@@ -80,7 +80,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | pastel | 1.31 MB | 1.31 MB |
 | hexyl | 1.17 MB | 1.17 MB |
 | zellij-switch | 914.3 KB | 914.3 KB |
-| zestty | 13.21 KB | 13.21 KB |
+| zestty | 15.04 KB | 15.04 KB |
 
 ## Shell Integration
 

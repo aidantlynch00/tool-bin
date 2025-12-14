@@ -29,7 +29,7 @@ tools:
 
   zestty:
     repo: aidantlynch00/zestty
-    tag: v0.1.0-beta
+    tag: v0.1.0-pre
     shell_code:
       bash: |
         source $HOME/.tool-bin/setup/bash/zestty.sh
