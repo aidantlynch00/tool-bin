@@ -30,16 +30,16 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | [hexyl](https://github.com/sharkdp/hexyl) | sharkdp/hexyl | 0.16.0 | Oct 22, 2025 | linux (amd64) |
 | [hyperfine](https://github.com/sharkdp/hyperfine) | sharkdp/hyperfine | 1.20.0 | Nov 23, 2025 | linux (amd64) |
 | [lazygit](https://github.com/jesseduffield/lazygit) | jesseduffield/lazygit | 0.57.0 | Dec 09, 2025 | linux (amd64) |
-| [mise](https://github.com/jdx/mise) | jdx/mise | 2025.12.4 | Dec 13, 2025 | linux (amd64) |
+| [mise](https://github.com/jdx/mise) | jdx/mise | 2025.12.10 | Dec 17, 2025 | linux (amd64) |
 | [nvim](https://github.com/neovim/neovim) | neovim/neovim | nightly | Dec 09, 2025 | linux (amd64) |
-| [opencode](https://github.com/sst/opencode) | sst/opencode | 1.0.152 | Dec 13, 2025 | linux (amd64) |
+| [opencode](https://github.com/sst/opencode) | sst/opencode | 1.0.164 | Dec 17, 2025 | linux (amd64) |
 | [pastel](https://github.com/sharkdp/pastel) | sharkdp/pastel | 0.11.0 | Oct 22, 2025 | linux (amd64) |
 | [rg](https://github.com/BurntSushi/ripgrep) | BurntSushi/ripgrep | 15.1.0 | Oct 28, 2025 | linux (amd64) |
 | [starship](https://github.com/starship/starship) | starship/starship | 1.24.1 | Nov 16, 2025 | linux (amd64) |
 | [tldr](https://github.com/tealdeer-rs/tealdeer) | tealdeer-rs/tealdeer | 1.8.1 | Nov 16, 2025 | linux (amd64) |
-| [typst](https://github.com/typst/typst) | typst/typst | 0.14.1 | Dec 09, 2025 | linux (amd64) |
-| [uv](https://github.com/astral-sh/uv) | astral-sh/uv | 0.9.17 | Dec 13, 2025 | linux (amd64) |
-| [yq](https://github.com/mikefarah/yq) | mikefarah/yq | 4.49.2 | Dec 01, 2025 | linux (amd64) |
+| [typst](https://github.com/typst/typst) | typst/typst | 0.14.2 | Dec 17, 2025 | linux (amd64) |
+| [uv](https://github.com/astral-sh/uv) | astral-sh/uv | 0.9.18 | Dec 17, 2025 | linux (amd64) |
+| [yq](https://github.com/mikefarah/yq) | mikefarah/yq | 4.50.1 | Dec 17, 2025 | linux (amd64) |
 | [zellij](https://github.com/zellij-org/zellij) | zellij-org/zellij | 0.43.1 | Oct 19, 2025 | linux (amd64) |
 | [zellij-switch](https://github.com/mostafaqanbaryan/zellij-switch) | mostafaqanbaryan/zellij-switch | 0.2.1 | Oct 20, 2025 | linux (amd64) |
 | [zestty](https://github.com/aidantlynch00/zestty) | aidantlynch00/zestty | 0.1.0-pre | Dec 13, 2025 | linux (amd64) |
@@ -47,14 +47,14 @@ This repository contains command-line tools automatically managed by [dotbins](h
 
 ## Tool Statistics
 
-<div align='center'><h3>30 Tools | 597.16 MB Total Size</h3></div>
+<div align='center'><h3>30 Tools | 601.13 MB Total Size</h3></div>
 
 | Tool | Total Size | Avg Size per Architecture |
 | :--- | :-------- | :------------------------ |
-| opencode | 134.27 MB | 134.27 MB |
+| opencode | 134.52 MB | 134.52 MB |
 | ghostty | 88.3 MB | 88.3 MB |
-| mise | 63.14 MB | 63.14 MB |
-| uv | 52.94 MB | 52.94 MB |
+| mise | 64.48 MB | 64.48 MB |
+| uv | 53.34 MB | 53.34 MB |
 | typst | 48.53 MB | 48.53 MB |
 | zellij | 40.53 MB | 40.53 MB |
 | lazygit | 20.75 MB | 20.75 MB |
@@ -62,9 +62,9 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | glow | 16.67 MB | 16.67 MB |
 | atac | 15.0 MB | 15.0 MB |
 | gum | 13.1 MB | 13.1 MB |
+| yq | 12.95 MB | 12.95 MB |
 | git-lfs | 12.36 MB | 12.36 MB |
 | starship | 11.59 MB | 11.59 MB |
-| yq | 10.97 MB | 10.97 MB |
 | delta | 6.85 MB | 6.85 MB |
 | bat | 6.59 MB | 6.59 MB |
 | rg | 5.19 MB | 5.19 MB |
@@ -147,5 +147,5 @@ For detailed usage information, run `dotbins --help` or `dotbins <command> --hel
 
 ## Additional Information
 
-* This README was automatically generated on Dec 13, 2025
+* This README was automatically generated on Dec 17, 2025
 * Current platform: **linux/amd64**
