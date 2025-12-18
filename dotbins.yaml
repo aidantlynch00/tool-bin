@@ -24,6 +24,8 @@ tools:
   yq: mikefarah/yq
   gum: charmbracelet/gum
   glow: charmbracelet/glow
+  freeze: charmbracelet/freeze
+  vhs: charmbracelet/vhs
   caligula: ifd3f/caligula
   typst: typst/typst
 

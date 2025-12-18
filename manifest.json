@@ -43,10 +43,16 @@
     "url": "https://github.com/eza-community/eza/releases/download/v0.23.4/eza_x86_64-unknown-linux-musl.tar.gz"
   },
   "fastfetch/linux/amd64": {
-    "tag": "2.56.0",
-    "updated_at": "2025-12-09T09:08:03.733161",
-    "sha256": "545c92029ae26b35c920ff3561c7c4806fe62cb48b15360157e8b6d38a05f438",
-    "url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.56.0/fastfetch-linux-amd64-polyfilled.tar.gz"
+    "tag": "2.56.1",
+    "updated_at": "2025-12-18T14:43:13.901055",
+    "sha256": "29e4c2ebe80cafaad9195cf502d9a8995b6aa921b810ab427e3bafa27e1edaac",
+    "url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.56.1/fastfetch-linux-amd64-polyfilled.tar.gz"
+  },
+  "freeze/linux/amd64": {
+    "tag": "v0.2.2",
+    "updated_at": "2025-12-17T13:15:42.434060",
+    "sha256": "012fdbdd16c0c19570f9052aac34d16d93d7d0d3b565b05374cc59492f53539b",
+    "url": "https://github.com/charmbracelet/freeze/releases/download/v0.2.2/freeze_0.2.2_Linux_x86_64.tar.gz"
   },
   "fzf/linux/amd64": {
     "tag": "v0.67.0",
@@ -97,10 +103,10 @@
     "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.57.0/lazygit_0.57.0_linux_x86_64.tar.gz"
   },
   "mise/linux/amd64": {
-    "tag": "v2025.12.10",
-    "updated_at": "2025-12-17T11:17:51.174835",
-    "sha256": "fbc8ca275ecf98230e468c572b26b8588c30f1021c217ecff086b95e76983d3d",
-    "url": "https://github.com/jdx/mise/releases/download/v2025.12.10/mise-v2025.12.10-linux-x64-musl.tar.gz"
+    "tag": "v2025.12.12",
+    "updated_at": "2025-12-18T14:43:14.452997",
+    "sha256": "f4bac31b7317690f421184b10fb7920ae43d71316889b0df8a7a10fbb3e0b844",
+    "url": "https://github.com/jdx/mise/releases/download/v2025.12.12/mise-v2025.12.12-linux-x64-musl.tar.gz"
   },
   "neovim/linux/amd64": {
     "tag": "v0.11.4",
@@ -115,10 +121,10 @@
     "url": "https://github.com/neovim/neovim/releases/download/nightly/nvim-linux-x86_64.appimage"
   },
   "opencode/linux/amd64": {
-    "tag": "v1.0.164",
-    "updated_at": "2025-12-17T11:17:52.318052",
-    "sha256": "60f2cdd4a258a40a49aa81e9a44dca392551a44a090f0b8ef64ddca2d6bd63b9",
-    "url": "https://github.com/sst/opencode/releases/download/v1.0.164/opencode-linux-x64-baseline.tar.gz"
+    "tag": "v1.0.167",
+    "updated_at": "2025-12-18T14:43:15.497406",
+    "sha256": "b51422f99ca3d2d1c611e6dc6a612b0a4e81fc17008ff6852df47f42a086d02e",
+    "url": "https://github.com/sst/opencode/releases/download/v1.0.167/opencode-linux-x64-baseline.tar.gz"
   },
   "pastel/linux/amd64": {
     "tag": "v0.11.0",
@@ -156,6 +162,12 @@
     "sha256": "a55ae2d0d53c8f6541bb4d6afc95857ff33a97de8f1d23e9d09acdcb865c4a00",
     "url": "https://github.com/astral-sh/uv/releases/download/0.9.18/uv-x86_64-unknown-linux-musl.tar.gz"
   },
+  "vhs/linux/amd64": {
+    "tag": "v0.10.0",
+    "updated_at": "2025-12-17T13:15:42.615627",
+    "sha256": "b552c3870aca101dcafe533cfef32dceb7b783400ad32642e728775c9f125407",
+    "url": "https://github.com/charmbracelet/vhs/releases/download/v0.10.0/vhs_0.10.0_Linux_x86_64.tar.gz"
+  },
   "yq/linux/amd64": {
     "tag": "v4.50.1",
     "updated_at": "2025-12-17T11:17:55.057682",
@@ -181,10 +193,10 @@
     "url": "https://github.com/aidantlynch00/zestty/releases/download/v0.1.0-pre/zestty"
   },
   "zjstatus/linux/amd64": {
-    "tag": "v0.21.1",
-    "updated_at": "2025-10-20T23:36:59.383822",
-    "sha256": "dc1982a208c27f66871e69811458fbb1abdb15e28662fddb136b575d6564ae1a",
-    "url": "https://github.com/dj95/zjstatus/releases/download/v0.21.1/zjstatus.wasm"
+    "tag": "v0.22.0",
+    "updated_at": "2025-12-18T14:43:15.513532",
+    "sha256": "4de426d20b1cbf861272e927aeeb5b49d92c17f0e2bb9d173f85bf7f0154dd53",
+    "url": "https://github.com/dj95/zjstatus/releases/download/v0.22.0/zjstatus.wasm"
   },
   "zoxide/linux/amd64": {
     "tag": "v0.9.8",
