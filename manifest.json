@@ -103,10 +103,10 @@
     "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.57.0/lazygit_0.57.0_linux_x86_64.tar.gz"
   },
   "mise/linux/amd64": {
-    "tag": "v2025.12.12",
-    "updated_at": "2025-12-18T14:43:14.452997",
-    "sha256": "f4bac31b7317690f421184b10fb7920ae43d71316889b0df8a7a10fbb3e0b844",
-    "url": "https://github.com/jdx/mise/releases/download/v2025.12.12/mise-v2025.12.12-linux-x64-musl.tar.gz"
+    "tag": "v2025.12.13",
+    "updated_at": "2025-12-31T10:58:03.575416",
+    "sha256": "fdc80f994d17e28c4dd1497723fce771fdc4134a92a3a2c9b69d4e608bdaa2ce",
+    "url": "https://github.com/jdx/mise/releases/download/v2025.12.13/mise-v2025.12.13-linux-x64-musl.tar.gz"
   },
   "neovim/linux/amd64": {
     "tag": "v0.11.4",
@@ -121,10 +121,10 @@
     "url": "https://github.com/neovim/neovim/releases/download/nightly/nvim-linux-x86_64.appimage"
   },
   "opencode/linux/amd64": {
-    "tag": "v1.0.167",
-    "updated_at": "2025-12-18T14:43:15.497406",
-    "sha256": "b51422f99ca3d2d1c611e6dc6a612b0a4e81fc17008ff6852df47f42a086d02e",
-    "url": "https://github.com/sst/opencode/releases/download/v1.0.167/opencode-linux-x64-baseline.tar.gz"
+    "tag": "v1.0.219",
+    "updated_at": "2025-12-31T10:58:04.539332",
+    "sha256": "445a6430332e70b71931e2fbc46606f25d6c0f8362b54c732f1b31194eff82e3",
+    "url": "https://github.com/sst/opencode/releases/download/v1.0.219/opencode-linux-x64-baseline.tar.gz"
   },
   "pastel/linux/amd64": {
     "tag": "v0.11.0",
@@ -139,10 +139,10 @@
     "url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-x86_64-unknown-linux-musl.tar.gz"
   },
   "starship/linux/amd64": {
-    "tag": "v1.24.1",
-    "updated_at": "2025-11-16T12:22:23.977743",
-    "sha256": "44a729c34aea5b0451fba49108cdc5ef6b1ae68db65e7623cc244a52efcd23d1",
-    "url": "https://github.com/starship/starship/releases/download/v1.24.1/starship-x86_64-unknown-linux-musl.tar.gz"
+    "tag": "v1.24.2",
+    "updated_at": "2025-12-31T10:58:04.645684",
+    "sha256": "00ff3c1f8ffb59b5c15d4b44c076bcca04d92cf0055c86b916248c14f3ae714a",
+    "url": "https://github.com/starship/starship/releases/download/v1.24.2/starship-x86_64-unknown-linux-musl.tar.gz"
   },
   "tldr/linux/amd64": {
     "tag": "v1.8.1",
@@ -157,10 +157,10 @@
     "url": "https://github.com/typst/typst/releases/download/v0.14.2/typst-x86_64-unknown-linux-musl.tar.xz"
   },
   "uv/linux/amd64": {
-    "tag": "0.9.18",
-    "updated_at": "2025-12-17T11:17:55.016923",
-    "sha256": "a55ae2d0d53c8f6541bb4d6afc95857ff33a97de8f1d23e9d09acdcb865c4a00",
-    "url": "https://github.com/astral-sh/uv/releases/download/0.9.18/uv-x86_64-unknown-linux-musl.tar.gz"
+    "tag": "0.9.21",
+    "updated_at": "2025-12-31T10:58:05.091977",
+    "sha256": "7abc29b3a06a99fb23564400fe884f5798a1786dc2ca05b6e0f70c53de748ab2",
+    "url": "https://github.com/astral-sh/uv/releases/download/0.9.21/uv-x86_64-unknown-linux-musl.tar.gz"
   },
   "vhs/linux/amd64": {
     "tag": "v0.10.0",
