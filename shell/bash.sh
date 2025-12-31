@@ -55,9 +55,6 @@ fi
 # Configuration for nvim
 if command -v nvim >/dev/null 2>&1; then
     export EDITOR="nvim"
-    alias vi="nvim"
-    alias vim="nvim"
-    alias nv="nvim"
 fi
 
 # Configuration for yazi

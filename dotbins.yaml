@@ -86,9 +86,6 @@ tools:
     shell_code:
       bash: |
         export EDITOR="nvim"
-        alias vi="nvim"
-        alias vim="nvim"
-        alias nv="nvim"
 
   yazi:
     repo: sxyazi/yazi
