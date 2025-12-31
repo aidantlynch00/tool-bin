@@ -34,7 +34,7 @@ tools:
     tag: v0.1.0-pre
     shell_code:
       bash: |
-        source $HOME/.tool-bin/setup/bash/zestty.sh
+        source $HOME/.tool-bin/shell/bash/setup/zestty.sh
 
   atac:
     repo: Julien-cpsn/ATAC
@@ -72,13 +72,13 @@ tools:
       linux: opencode-{platform}-{arch}-baseline.tar.gz
     shell_code:
       bash: |
-        source $HOME/.tool-bin/setup/bash/opencode.sh
+        source $HOME/.tool-bin/shell/bash/setup/opencode.sh
 
   fzf:
     repo: junegunn/fzf
     shell_code:
       bash: |
-        source $HOME/.tool-bin/setup/bash/fzf.sh
+        source $HOME/.tool-bin/shell/bash/setup/fzf.sh
 
   nvim:
     repo: neovim/neovim
@@ -94,7 +94,7 @@ tools:
     repo: sxyazi/yazi
     shell_code:
       bash: |
-        source $HOME/.tool-bin/setup/bash/yazi.sh
+        source $HOME/.tool-bin/shell/bash/setup/yazi.sh
 
   zellij:
     repo: zellij-org/zellij
@@ -116,7 +116,7 @@ tools:
     repo: starship/starship
     shell_code:
       bash: |
-        source $HOME/.tool-bin/setup/bash/starship.sh
+        source $HOME/.tool-bin/shell/bash/setup/starship.sh
 
   uv:
     repo: astral-sh/uv
