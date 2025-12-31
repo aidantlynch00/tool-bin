@@ -60,6 +60,11 @@ if command -v nvim >/dev/null 2>&1; then
     alias nv="nvim"
 fi
 
+# Configuration for yazi
+if command -v yazi >/dev/null 2>&1; then
+    source $HOME/.tool-bin/setup/bash/yazi.sh
+fi
+
 # Configuration for zellij
 if command -v zellij >/dev/null 2>&1; then
     alias zj="zellij"

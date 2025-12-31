@@ -168,6 +168,12 @@
     "sha256": "b552c3870aca101dcafe533cfef32dceb7b783400ad32642e728775c9f125407",
     "url": "https://github.com/charmbracelet/vhs/releases/download/v0.10.0/vhs_0.10.0_Linux_x86_64.tar.gz"
   },
+  "yazi/linux/amd64": {
+    "tag": "v25.12.29",
+    "updated_at": "2025-12-31T11:03:59.168191",
+    "sha256": "f2c5164811c56a0e6ff0d7de6dbe8b33cf8a603c2185686ac8523d37fc81e718",
+    "url": "https://github.com/sxyazi/yazi/releases/download/v25.12.29/yazi-x86_64-unknown-linux-musl.zip"
+  },
   "yq/linux/amd64": {
     "tag": "v4.50.1",
     "updated_at": "2025-12-17T11:17:55.057682",

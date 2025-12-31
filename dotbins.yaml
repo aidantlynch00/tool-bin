@@ -90,6 +90,12 @@ tools:
         alias vim="nvim"
         alias nv="nvim"
 
+  yazi:
+    repo: sxyazi/yazi
+    shell_code:
+      bash: |
+        source $HOME/.tool-bin/setup/bash/yazi.sh
+
   zellij:
     repo: zellij-org/zellij
     shell_code:

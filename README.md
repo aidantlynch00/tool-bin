@@ -41,6 +41,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | [typst](https://github.com/typst/typst) | typst/typst | 0.14.2 | Dec 17, 2025 | linux (amd64) |
 | [uv](https://github.com/astral-sh/uv) | astral-sh/uv | 0.9.21 | Dec 31, 2025 | linux (amd64) |
 | [vhs](https://github.com/charmbracelet/vhs) | charmbracelet/vhs | 0.10.0 | Dec 17, 2025 | linux (amd64) |
+| [yazi](https://github.com/sxyazi/yazi) | sxyazi/yazi | 25.12.29 | Dec 31, 2025 | linux (amd64) |
 | [yq](https://github.com/mikefarah/yq) | mikefarah/yq | 4.50.1 | Dec 17, 2025 | linux (amd64) |
 | [zellij](https://github.com/zellij-org/zellij) | zellij-org/zellij | 0.43.1 | Oct 19, 2025 | linux (amd64) |
 | [zellij-switch](https://github.com/mostafaqanbaryan/zellij-switch) | mostafaqanbaryan/zellij-switch | 0.2.1 | Oct 20, 2025 | linux (amd64) |
@@ -49,7 +50,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 
 ## Tool Statistics
 
-<div align='center'><h3>32 Tools | 639.4 MB Total Size</h3></div>
+<div align='center'><h3>33 Tools | 660.93 MB Total Size</h3></div>
 
 | Tool | Total Size | Avg Size per Architecture |
 | :--- | :-------- | :------------------------ |
@@ -60,6 +61,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | typst | 48.53 MB | 48.53 MB |
 | zellij | 40.53 MB | 40.53 MB |
 | vhs | 22.54 MB | 22.54 MB |
+| yazi | 21.52 MB | 21.52 MB |
 | lazygit | 20.75 MB | 20.75 MB |
 | nvim | 18.73 MB | 18.73 MB |
 | glow | 16.67 MB | 16.67 MB |
