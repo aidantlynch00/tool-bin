@@ -32,12 +32,12 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | [hyperfine](https://github.com/sharkdp/hyperfine) | sharkdp/hyperfine | 1.20.0 | Nov 23, 2025 | linux (amd64) |
 | [lazygit](https://github.com/jesseduffield/lazygit) | jesseduffield/lazygit | 0.57.0 | Dec 09, 2025 | linux (amd64) |
 | [mise](https://github.com/jdx/mise) | jdx/mise | 2025.12.13 | Dec 31, 2025 | linux (amd64) |
-| [nvim](https://github.com/neovim/neovim) | neovim/neovim | nightly | Dec 09, 2025 | linux (amd64) |
+| [nvim](https://github.com/neovim/neovim) | neovim/neovim | nightly | Jan 01, 2026 | linux (amd64) |
 | [opencode](https://github.com/sst/opencode) | sst/opencode | 1.0.219 | Dec 31, 2025 | linux (amd64) |
 | [pastel](https://github.com/sharkdp/pastel) | sharkdp/pastel | 0.11.0 | Oct 22, 2025 | linux (amd64) |
 | [rg](https://github.com/BurntSushi/ripgrep) | BurntSushi/ripgrep | 15.1.0 | Oct 28, 2025 | linux (amd64) |
 | [slides](https://github.com/maaslalani/slides) | maaslalani/slides | 0.9.0 | Jan 01, 2026 | linux (amd64) |
-| [starship](https://github.com/starship/starship) | starship/starship | 1.24.1 | Nov 16, 2025 | linux (amd64) |
+| [starship](https://github.com/starship/starship) | starship/starship | 1.24.2 | Dec 31, 2025 | linux (amd64) |
 | [tldr](https://github.com/tealdeer-rs/tealdeer) | tealdeer-rs/tealdeer | 1.8.1 | Nov 16, 2025 | linux (amd64) |
 | [typst](https://github.com/typst/typst) | typst/typst | 0.14.2 | Dec 17, 2025 | linux (amd64) |
 | [uv](https://github.com/astral-sh/uv) | astral-sh/uv | 0.9.21 | Dec 31, 2025 | linux (amd64) |
@@ -51,11 +51,11 @@ This repository contains command-line tools automatically managed by [dotbins](h
 
 ## Tool Statistics
 
-<div align='center'><h3>31 Tools | 710.17 MB Total Size</h3></div>
+<div align='center'><h3>34 Tools | 773.99 MB Total Size</h3></div>
 
 | Tool | Total Size | Avg Size per Architecture |
 | :--- | :-------- | :------------------------ |
-| opencode | 134.27 MB | 134.27 MB |
+| opencode | 137.06 MB | 137.06 MB |
 | difft | 105.87 MB | 105.87 MB |
 | ghostty | 88.3 MB | 88.3 MB |
 | mise | 65.02 MB | 65.02 MB |
@@ -65,16 +65,15 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | vhs | 22.54 MB | 22.54 MB |
 | yazi | 21.52 MB | 21.52 MB |
 | lazygit | 20.75 MB | 20.75 MB |
-| nvim | 18.73 MB | 18.73 MB |
+| nvim | 18.77 MB | 18.77 MB |
 | glow | 16.67 MB | 16.67 MB |
 | atac | 15.0 MB | 15.0 MB |
-| freeze | 13.43 MB | 13.43 MB |
 | slides | 14.0 MB | 14.0 MB |
+| freeze | 13.43 MB | 13.43 MB |
 | gum | 13.1 MB | 13.1 MB |
 | yq | 12.95 MB | 12.95 MB |
 | git-lfs | 12.36 MB | 12.36 MB |
 | starship | 11.55 MB | 11.55 MB |
-| yq | 10.97 MB | 10.97 MB |
 | bat | 6.59 MB | 6.59 MB |
 | rg | 5.19 MB | 5.19 MB |
 | fzf | 4.21 MB | 4.21 MB |

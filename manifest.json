@@ -116,8 +116,8 @@
   },
   "nvim/linux/amd64": {
     "tag": "nightly",
-    "updated_at": "2025-12-09T09:28:54.287415",
-    "sha256": "d5b5e53a50ccc6573f388e15056b8ed27d084e6244cf0badaa8e35b80a021397",
+    "updated_at": "2026-01-01T15:50:01.696896",
+    "sha256": "f3057a9bf13e08f228dcd3d9f8c9c05fd333b896bfc911052c5f9278aea1bee0",
     "url": "https://github.com/neovim/neovim/releases/download/nightly/nvim-linux-x86_64.appimage"
   },
   "opencode/linux/amd64": {
