@@ -18,11 +18,11 @@
     "sha256": "55fe42dccc920ea47c9cc84a4deb842465f4e48256ee76e61317548406553274",
     "url": "https://github.com/ifd3f/caligula/releases/download/v0.4.10/caligula-x86_64-linux"
   },
-  "delta/linux/amd64": {
-    "tag": "0.18.2",
-    "updated_at": "2025-10-20T21:04:43.950942",
-    "sha256": "b7ea845004762358a00ef9127dd9fd723e333c7e4b9cb1da220c3909372310ee",
-    "url": "https://github.com/dandavison/delta/releases/download/0.18.2/delta-0.18.2-x86_64-unknown-linux-musl.tar.gz"
+  "difft/linux/amd64": {
+    "tag": "0.67.0",
+    "updated_at": "2026-01-01T15:33:40.368318",
+    "sha256": "328e1ab028a36b81ae990c9fc40a1c8eb618e14559e0d67a0a63f328ad85de09",
+    "url": "https://github.com/Wilfred/difftastic/releases/download/0.67.0/difft-x86_64-unknown-linux-musl.tar.gz"
   },
   "duf/linux/amd64": {
     "tag": "v0.9.1",
@@ -138,6 +138,12 @@
     "sha256": "1c9297be4a084eea7ecaedf93eb03d058d6faae29bbc57ecdaf5063921491599",
     "url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-x86_64-unknown-linux-musl.tar.gz"
   },
+  "slides/linux/amd64": {
+    "tag": "v0.9.0",
+    "updated_at": "2026-01-01T15:33:40.561753",
+    "sha256": "3ceccd36310d6f9e0db4983acff5248c7a03d168c6ff7d90dee89448d9083235",
+    "url": "https://github.com/maaslalani/slides/releases/download/v0.9.0/slides_0.9.0_linux_amd64.tar.gz"
+  },
   "starship/linux/amd64": {
     "tag": "v1.24.2",
     "updated_at": "2025-12-31T10:58:04.645684",
@@ -203,11 +209,5 @@
     "updated_at": "2025-12-18T14:43:15.513532",
     "sha256": "4de426d20b1cbf861272e927aeeb5b49d92c17f0e2bb9d173f85bf7f0154dd53",
     "url": "https://github.com/dj95/zjstatus/releases/download/v0.22.0/zjstatus.wasm"
-  },
-  "zoxide/linux/amd64": {
-    "tag": "v0.9.8",
-    "updated_at": "2025-10-19T11:34:20.335317",
-    "sha256": "4092ee38aa1efde42e4efb2f9c872df5388198aacae7f1a74e5eb5c3cc7f531c",
-    "url": "https://github.com/ajeetdsouza/zoxide/releases/download/v0.9.8/zoxide-0.9.8-x86_64-unknown-linux-musl.tar.gz"
   }
 }

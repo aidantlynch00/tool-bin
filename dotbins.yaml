@@ -19,7 +19,7 @@ tools:
   dust: bootandy/dust
   eza: eza-community/eza
   git-lfs: git-lfs/git-lfs
-  delta: dandavison/delta
+  difft: Wilfred/difftastic
   tldr: tealdeer-rs/tealdeer
   yq: mikefarah/yq
   gum: charmbracelet/gum
@@ -28,6 +28,7 @@ tools:
   vhs: charmbracelet/vhs
   caligula: ifd3f/caligula
   typst: typst/typst
+  slides: maaslalani/slides
 
   zestty:
     repo: aidantlynch00/zestty
