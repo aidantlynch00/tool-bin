@@ -33,7 +33,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | [lazygit](https://github.com/jesseduffield/lazygit) | jesseduffield/lazygit | 0.57.0 | Dec 09, 2025 | linux (amd64) |
 | [mise](https://github.com/jdx/mise) | jdx/mise | 2025.12.13 | Dec 31, 2025 | linux (amd64) |
 | [nvim](https://github.com/neovim/neovim) | neovim/neovim | nightly | Jan 01, 2026 | linux (amd64) |
-| [opencode](https://github.com/sst/opencode) | sst/opencode | 1.0.219 | Dec 31, 2025 | linux (amd64) |
+| [opencode](https://github.com/sst/opencode) | sst/opencode | 1.0.223 | Jan 01, 2026 | linux (amd64) |
 | [pastel](https://github.com/sharkdp/pastel) | sharkdp/pastel | 0.11.0 | Oct 22, 2025 | linux (amd64) |
 | [rg](https://github.com/BurntSushi/ripgrep) | BurntSushi/ripgrep | 15.1.0 | Oct 28, 2025 | linux (amd64) |
 | [slides](https://github.com/maaslalani/slides) | maaslalani/slides | 0.9.0 | Jan 01, 2026 | linux (amd64) |
