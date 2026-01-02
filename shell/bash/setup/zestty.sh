@@ -2,6 +2,7 @@
 
 export ZESTTY_DELIM=$'\t'
 export ZESTTY_PROJECT_DELIM=":"
+export ZESTTY_PLUGIN_URL="file:~/.tool-bin/wasm/zestty.wasm"
 
 alias zc="zestty create"
 alias za="zestty attach"

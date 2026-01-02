@@ -47,12 +47,12 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | [yq](https://github.com/mikefarah/yq) | mikefarah/yq | 4.50.1 | Dec 17, 2025 | linux (amd64) |
 | [zellij](https://github.com/zellij-org/zellij) | zellij-org/zellij | 0.43.1 | Oct 19, 2025 | linux (amd64) |
 | [zellij-switch](https://github.com/mostafaqanbaryan/zellij-switch) | mostafaqanbaryan/zellij-switch | 0.2.1 | Oct 20, 2025 | linux (amd64) |
-| [zestty](https://github.com/aidantlynch00/zestty) | aidantlynch00/zestty | 0.1.0-pre | Dec 13, 2025 | linux (amd64) |
+| [zestty](https://github.com/aidantlynch00/zestty) | aidantlynch00/zestty | 0.1.0-pre | Jan 02, 2026 | linux (amd64) |
 | [zjstatus](https://github.com/dj95/zjstatus) | dj95/zjstatus | 0.22.0 | Dec 18, 2025 | linux (amd64) |
 
 ## Tool Statistics
 
-<div align='center'><h3>35 Tools | 775.29 MB Total Size</h3></div>
+<div align='center'><h3>35 Tools | 776.38 MB Total Size</h3></div>
 
 | Tool | Total Size | Avg Size per Architecture |
 | :--- | :-------- | :------------------------ |
@@ -89,8 +89,8 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | pastel | 1.31 MB | 1.31 MB |
 | ttyd | 1.3 MB | 1.3 MB |
 | hexyl | 1.17 MB | 1.17 MB |
+| zestty | 1.1 MB | 1.1 MB |
 | zellij-switch | 914.3 KB | 914.3 KB |
-| zestty | 15.04 KB | 15.04 KB |
 
 ## Shell Integration
 
@@ -157,5 +157,5 @@ For detailed usage information, run `dotbins --help` or `dotbins <command> --hel
 
 ## Additional Information
 
-* This README was automatically generated on Jan 01, 2026
+* This README was automatically generated on Jan 02, 2026
 * Current platform: **linux/amd64**

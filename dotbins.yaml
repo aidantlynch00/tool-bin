@@ -39,6 +39,9 @@ tools:
   zestty:
     repo: aidantlynch00/zestty
     tag: v0.1.0-pre
+    asset_patterns: zestty.zip
+    binary_name: [zestty, zestty.wasm]
+    path_in_archive: [zestty, zestty.wasm]
     shell_code:
       bash: |
         source $HOME/.tool-bin/shell/bash/setup/zestty.sh
