@@ -30,6 +30,12 @@ tools:
   typst: typst/typst
   slides: maaslalani/slides
 
+  ttyd:
+    repo: tsl0922/ttyd
+    arch_map:
+      amd64: x86_64
+    asset_patterns: ttyd.{arch}
+
   zestty:
     repo: aidantlynch00/zestty
     tag: v0.1.0-pre

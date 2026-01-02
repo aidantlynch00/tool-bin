@@ -156,6 +156,12 @@
     "sha256": "6f2fad4435e0110484d3f25cdc4bf20129dae03238f32d06ebdd00bdc50ae2ed",
     "url": "https://github.com/tealdeer-rs/tealdeer/releases/download/v1.8.1/tealdeer-linux-x86_64-musl"
   },
+  "ttyd/linux/amd64": {
+    "tag": "1.7.7",
+    "updated_at": "2026-01-01T22:08:41.635430",
+    "sha256": "8a217c968aba172e0dbf3f34447218dc015bc4d5e59bf51db2f2cd12b7be4f55",
+    "url": "https://github.com/tsl0922/ttyd/releases/download/1.7.7/ttyd.x86_64"
+  },
   "typst/linux/amd64": {
     "tag": "v0.14.2",
     "updated_at": "2025-12-17T11:17:54.238139",

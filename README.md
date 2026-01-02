@@ -39,6 +39,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | [slides](https://github.com/maaslalani/slides) | maaslalani/slides | 0.9.0 | Jan 01, 2026 | linux (amd64) |
 | [starship](https://github.com/starship/starship) | starship/starship | 1.24.2 | Dec 31, 2025 | linux (amd64) |
 | [tldr](https://github.com/tealdeer-rs/tealdeer) | tealdeer-rs/tealdeer | 1.8.1 | Nov 16, 2025 | linux (amd64) |
+| [ttyd](https://github.com/tsl0922/ttyd) | tsl0922/ttyd | 1.7.7 | Jan 01, 2026 | linux (amd64) |
 | [typst](https://github.com/typst/typst) | typst/typst | 0.14.2 | Dec 17, 2025 | linux (amd64) |
 | [uv](https://github.com/astral-sh/uv) | astral-sh/uv | 0.9.21 | Dec 31, 2025 | linux (amd64) |
 | [vhs](https://github.com/charmbracelet/vhs) | charmbracelet/vhs | 0.10.0 | Dec 17, 2025 | linux (amd64) |
@@ -51,7 +52,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 
 ## Tool Statistics
 
-<div align='center'><h3>34 Tools | 773.99 MB Total Size</h3></div>
+<div align='center'><h3>35 Tools | 775.29 MB Total Size</h3></div>
 
 | Tool | Total Size | Avg Size per Architecture |
 | :--- | :-------- | :------------------------ |
@@ -86,6 +87,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | eza | 2.38 MB | 2.38 MB |
 | hyperfine | 1.4 MB | 1.4 MB |
 | pastel | 1.31 MB | 1.31 MB |
+| ttyd | 1.3 MB | 1.3 MB |
 | hexyl | 1.17 MB | 1.17 MB |
 | zellij-switch | 914.3 KB | 914.3 KB |
 | zestty | 15.04 KB | 15.04 KB |
