@@ -200,8 +200,8 @@
   },
   "zestty/linux/amd64": {
     "tag": "v0.1.0-pre",
-    "updated_at": "2026-01-02T00:15:26.034328",
-    "sha256": "9b4705212477e7b5fd1de8936d3401b97910a4c4693a8284bd6e6b55c3a2445e",
+    "updated_at": "2026-01-02T00:44:30.253514",
+    "sha256": "357649ceabfa59a5461484f5a39f2dc5d9fa47ba49a11c59dde18c02551eb57d",
     "url": "https://github.com/aidantlynch00/zestty/releases/download/v0.1.0-pre/zestty.zip"
   },
   "zjstatus/linux/amd64": {
