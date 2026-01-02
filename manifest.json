@@ -192,12 +192,6 @@
     "sha256": "c7a1278e6bbc4924f41b56db838086c39d13ee25dcb22089e7fbf16ac901f0d4",
     "url": "https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_amd64"
   },
-  "zellij-switch/linux/amd64": {
-    "tag": "0.2.1",
-    "updated_at": "2025-10-20T23:36:59.310957",
-    "sha256": "ef257e41ffeb73337ed1dead309942d14663d12d8f58170f0cdab5045b0a22ae",
-    "url": "https://github.com/mostafaqanbaryan/zellij-switch/releases/download/0.2.1/zellij-switch.wasm"
-  },
   "zellij/linux/amd64": {
     "tag": "v0.43.1",
     "updated_at": "2025-10-19T12:23:25.663808",

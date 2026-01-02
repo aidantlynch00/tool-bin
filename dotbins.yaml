@@ -114,11 +114,6 @@ tools:
     binary_name: zjstatus.wasm
     asset_patterns: zjstatus.wasm
 
-  zellij-switch:
-    repo: mostafaqanbaryan/zellij-switch
-    binary_name: zellij-switch.wasm
-    asset_patterns: zellij-switch.wasm
-
   starship:
     repo: starship/starship
     shell_code:
