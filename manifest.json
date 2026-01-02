@@ -138,6 +138,12 @@
     "sha256": "1c9297be4a084eea7ecaedf93eb03d058d6faae29bbc57ecdaf5063921491599",
     "url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-x86_64-unknown-linux-musl.tar.gz"
   },
+  "sk/linux/amd64": {
+    "tag": "v0.20.5",
+    "updated_at": "2026-01-02T17:30:27.581875",
+    "sha256": "7df6dc82bfaeaaa8258c154e988c8efd22f8a0de6650fa744467739cf921c552",
+    "url": "https://github.com/skim-rs/skim/releases/download/v0.20.5/skim-x86_64-unknown-linux-musl.tgz"
+  },
   "slides/linux/amd64": {
     "tag": "v0.9.0",
     "updated_at": "2026-01-01T15:33:40.561753",

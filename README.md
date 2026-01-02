@@ -36,6 +36,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | [opencode](https://github.com/sst/opencode) | sst/opencode | 1.0.223 | Jan 01, 2026 | linux (amd64) |
 | [pastel](https://github.com/sharkdp/pastel) | sharkdp/pastel | 0.11.0 | Oct 22, 2025 | linux (amd64) |
 | [rg](https://github.com/BurntSushi/ripgrep) | BurntSushi/ripgrep | 15.1.0 | Oct 28, 2025 | linux (amd64) |
+| [sk](https://github.com/skim-rs/skim) | skim-rs/skim | 0.20.5 | Jan 02, 2026 | linux (amd64) |
 | [slides](https://github.com/maaslalani/slides) | maaslalani/slides | 0.9.0 | Jan 01, 2026 | linux (amd64) |
 | [starship](https://github.com/starship/starship) | starship/starship | 1.24.2 | Dec 31, 2025 | linux (amd64) |
 | [tldr](https://github.com/tealdeer-rs/tealdeer) | tealdeer-rs/tealdeer | 1.8.1 | Nov 16, 2025 | linux (amd64) |
@@ -51,7 +52,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 
 ## Tool Statistics
 
-<div align='center'><h3>34 Tools | 775.49 MB Total Size</h3></div>
+<div align='center'><h3>35 Tools | 780.11 MB Total Size</h3></div>
 
 | Tool | Total Size | Avg Size per Architecture |
 | :--- | :-------- | :------------------------ |
@@ -76,6 +77,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | starship | 11.55 MB | 11.55 MB |
 | bat | 6.59 MB | 6.59 MB |
 | rg | 5.19 MB | 5.19 MB |
+| sk | 4.63 MB | 4.63 MB |
 | fzf | 4.21 MB | 4.21 MB |
 | caligula | 3.89 MB | 3.89 MB |
 | zjstatus | 3.67 MB | 3.67 MB |
