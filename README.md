@@ -30,10 +30,10 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | [gum](https://github.com/charmbracelet/gum) | charmbracelet/gum | 0.17.0 | Oct 22, 2025 | linux (amd64) |
 | [hexyl](https://github.com/sharkdp/hexyl) | sharkdp/hexyl | 0.16.0 | Oct 22, 2025 | linux (amd64) |
 | [hyperfine](https://github.com/sharkdp/hyperfine) | sharkdp/hyperfine | 1.20.0 | Nov 23, 2025 | linux (amd64) |
-| [lazygit](https://github.com/jesseduffield/lazygit) | jesseduffield/lazygit | 0.57.0 | Dec 09, 2025 | linux (amd64) |
+| [lazygit](https://github.com/jesseduffield/lazygit) | jesseduffield/lazygit | 0.58.0 | Jan 06, 2026 | linux (amd64) |
 | [mise](https://github.com/jdx/mise) | jdx/mise | 2025.12.13 | Dec 31, 2025 | linux (amd64) |
 | [nvim](https://github.com/neovim/neovim) | neovim/neovim | nightly | Jan 01, 2026 | linux (amd64) |
-| [opencode](https://github.com/sst/opencode) | sst/opencode | 1.0.223 | Jan 01, 2026 | linux (amd64) |
+| [opencode](https://github.com/sst/opencode) | sst/opencode | 1.1.3 | Jan 06, 2026 | linux (amd64) |
 | [pastel](https://github.com/sharkdp/pastel) | sharkdp/pastel | 0.11.0 | Oct 22, 2025 | linux (amd64) |
 | [rg](https://github.com/BurntSushi/ripgrep) | BurntSushi/ripgrep | 15.1.0 | Oct 28, 2025 | linux (amd64) |
 | [sk](https://github.com/skim-rs/skim) | skim-rs/skim | 0.20.5 | Jan 02, 2026 | linux (amd64) |
@@ -42,9 +42,9 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | [tldr](https://github.com/tealdeer-rs/tealdeer) | tealdeer-rs/tealdeer | 1.8.1 | Nov 16, 2025 | linux (amd64) |
 | [ttyd](https://github.com/tsl0922/ttyd) | tsl0922/ttyd | 1.7.7 | Jan 01, 2026 | linux (amd64) |
 | [typst](https://github.com/typst/typst) | typst/typst | 0.14.2 | Dec 17, 2025 | linux (amd64) |
-| [uv](https://github.com/astral-sh/uv) | astral-sh/uv | 0.9.21 | Dec 31, 2025 | linux (amd64) |
+| [uv](https://github.com/astral-sh/uv) | astral-sh/uv | 0.9.22 | Jan 06, 2026 | linux (amd64) |
 | [vhs](https://github.com/charmbracelet/vhs) | charmbracelet/vhs | 0.10.0 | Dec 17, 2025 | linux (amd64) |
-| [yazi](https://github.com/sxyazi/yazi) | sxyazi/yazi | 25.12.29 | Dec 31, 2025 | linux (amd64) |
+| [yazi](https://github.com/sxyazi/yazi) | sxyazi/yazi | 26.1.4 | Jan 06, 2026 | linux (amd64) |
 | [yq](https://github.com/mikefarah/yq) | mikefarah/yq | 4.50.1 | Dec 17, 2025 | linux (amd64) |
 | [zellij](https://github.com/zellij-org/zellij) | zellij-org/zellij | 0.43.1 | Oct 19, 2025 | linux (amd64) |
 | [zestty](https://github.com/aidantlynch00/zestty) | aidantlynch00/zestty | 0.1.0-pre | Jan 02, 2026 | linux (amd64) |
@@ -52,19 +52,19 @@ This repository contains command-line tools automatically managed by [dotbins](h
 
 ## Tool Statistics
 
-<div align='center'><h3>35 Tools | 780.11 MB Total Size</h3></div>
+<div align='center'><h3>35 Tools | 781.17 MB Total Size</h3></div>
 
 | Tool | Total Size | Avg Size per Architecture |
 | :--- | :-------- | :------------------------ |
-| opencode | 137.06 MB | 137.06 MB |
+| opencode | 137.41 MB | 137.41 MB |
 | difft | 105.87 MB | 105.87 MB |
 | ghostty | 88.3 MB | 88.3 MB |
 | mise | 65.02 MB | 65.02 MB |
-| uv | 53.23 MB | 53.23 MB |
+| uv | 53.38 MB | 53.38 MB |
 | typst | 48.53 MB | 48.53 MB |
 | zellij | 40.53 MB | 40.53 MB |
 | vhs | 22.54 MB | 22.54 MB |
-| yazi | 21.52 MB | 21.52 MB |
+| yazi | 22.09 MB | 22.09 MB |
 | lazygit | 20.75 MB | 20.75 MB |
 | nvim | 18.77 MB | 18.77 MB |
 | glow | 16.67 MB | 16.67 MB |
@@ -157,5 +157,5 @@ For detailed usage information, run `dotbins --help` or `dotbins <command> --hel
 
 ## Additional Information
 
-* This README was automatically generated on Jan 02, 2026
+* This README was automatically generated on Jan 06, 2026
 * Current platform: **linux/amd64**

@@ -97,10 +97,10 @@
     "url": "https://github.com/sharkdp/hyperfine/releases/download/v1.20.0/hyperfine-v1.20.0-x86_64-unknown-linux-musl.tar.gz"
   },
   "lazygit/linux/amd64": {
-    "tag": "v0.57.0",
-    "updated_at": "2025-12-09T09:08:33.838637",
-    "sha256": "ced011ecd1459d069c66128fbf172b7248c8b99d8983fa17d84a247a98146d5e",
-    "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.57.0/lazygit_0.57.0_linux_x86_64.tar.gz"
+    "tag": "v0.58.0",
+    "updated_at": "2026-01-06T11:41:41.478110",
+    "sha256": "6161fa717cd07d133f7f1c53fe6e49de97d718dbb4b9e1481604dca6f3b8c647",
+    "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.58.0/lazygit_0.58.0_linux_x86_64.tar.gz"
   },
   "mise/linux/amd64": {
     "tag": "v2025.12.13",
@@ -121,10 +121,10 @@
     "url": "https://github.com/neovim/neovim/releases/download/nightly/nvim-linux-x86_64.appimage"
   },
   "opencode/linux/amd64": {
-    "tag": "v1.0.223",
-    "updated_at": "2026-01-01T18:17:02.561562",
-    "sha256": "6c1bf6114a0b08fdb4c15ceef9da4480df0297699e045db7dd9a2950b0b9cc09",
-    "url": "https://github.com/sst/opencode/releases/download/v1.0.223/opencode-linux-x64-baseline.tar.gz"
+    "tag": "v1.1.3",
+    "updated_at": "2026-01-06T11:39:23.755499",
+    "sha256": "cfbf9a85c96f58d262daaded697c484b38c4ee26c7244c12a60698b8e8d81b07",
+    "url": "https://github.com/anomalyco/opencode/releases/download/v1.1.3/opencode-linux-x64-baseline.tar.gz"
   },
   "pastel/linux/amd64": {
     "tag": "v0.11.0",
@@ -175,10 +175,10 @@
     "url": "https://github.com/typst/typst/releases/download/v0.14.2/typst-x86_64-unknown-linux-musl.tar.xz"
   },
   "uv/linux/amd64": {
-    "tag": "0.9.21",
-    "updated_at": "2025-12-31T10:58:05.091977",
-    "sha256": "7abc29b3a06a99fb23564400fe884f5798a1786dc2ca05b6e0f70c53de748ab2",
-    "url": "https://github.com/astral-sh/uv/releases/download/0.9.21/uv-x86_64-unknown-linux-musl.tar.gz"
+    "tag": "0.9.22",
+    "updated_at": "2026-01-06T11:39:24.610765",
+    "sha256": "84d087a8e77a223d80578919894f3103f46ca7c263250c3e0478ce7c38850349",
+    "url": "https://github.com/astral-sh/uv/releases/download/0.9.22/uv-x86_64-unknown-linux-musl.tar.gz"
   },
   "vhs/linux/amd64": {
     "tag": "v0.10.0",
@@ -187,10 +187,10 @@
     "url": "https://github.com/charmbracelet/vhs/releases/download/v0.10.0/vhs_0.10.0_Linux_x86_64.tar.gz"
   },
   "yazi/linux/amd64": {
-    "tag": "v25.12.29",
-    "updated_at": "2025-12-31T11:03:59.168191",
-    "sha256": "f2c5164811c56a0e6ff0d7de6dbe8b33cf8a603c2185686ac8523d37fc81e718",
-    "url": "https://github.com/sxyazi/yazi/releases/download/v25.12.29/yazi-x86_64-unknown-linux-musl.zip"
+    "tag": "v26.1.4",
+    "updated_at": "2026-01-06T11:39:24.988021",
+    "sha256": "76e5010e1dcd11259d34bda4cca75d33fad4b4deb59dadf179832a39d6b99994",
+    "url": "https://github.com/sxyazi/yazi/releases/download/v26.1.4/yazi-x86_64-unknown-linux-musl.zip"
   },
   "yq/linux/amd64": {
     "tag": "v4.50.1",
