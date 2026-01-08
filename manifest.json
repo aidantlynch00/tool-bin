@@ -205,10 +205,10 @@
     "url": "https://github.com/zellij-org/zellij/releases/download/v0.43.1/zellij-no-web-x86_64-unknown-linux-musl.tar.gz"
   },
   "zestty/linux/amd64": {
-    "tag": "v0.1.0-pre",
-    "updated_at": "2026-01-02T00:44:30.253514",
-    "sha256": "357649ceabfa59a5461484f5a39f2dc5d9fa47ba49a11c59dde18c02551eb57d",
-    "url": "https://github.com/aidantlynch00/zestty/releases/download/v0.1.0-pre/zestty.zip"
+    "tag": "v0.1.0",
+    "updated_at": "2026-01-07T23:33:53.051156",
+    "sha256": "ad92842e4a030632622cb61bf69e00e877aa52cda3beaba891a13499b4b2f677",
+    "url": "https://github.com/aidantlynch00/zestty/releases/download/v0.1.0/zestty.zip"
   },
   "zjstatus/linux/amd64": {
     "tag": "v0.22.0",
