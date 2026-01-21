@@ -31,10 +31,10 @@
     "url": "https://github.com/muesli/duf/releases/download/v0.9.1/duf_0.9.1_linux_x86_64.tar.gz"
   },
   "dust/linux/amd64": {
-    "tag": "v1.2.3",
-    "updated_at": "2025-10-20T21:04:44.093608",
-    "sha256": "2767e53a07a6f887c95d80dc7b976fbb0f85c24fa19e83704639ff5d67ebfbf4",
-    "url": "https://github.com/bootandy/dust/releases/download/v1.2.3/dust-v1.2.3-x86_64-unknown-linux-musl.tar.gz"
+    "tag": "v1.2.4",
+    "updated_at": "2026-01-21T15:04:23.770410",
+    "sha256": "4e313f9f854017e58a2ada4c0d1774677b8cf53d63ab55a991d5871d5f504452",
+    "url": "https://github.com/bootandy/dust/releases/download/v1.2.4/dust-v1.2.4-x86_64-unknown-linux-musl.tar.gz"
   },
   "eza/linux/amd64": {
     "tag": "v0.23.4",
@@ -43,10 +43,10 @@
     "url": "https://github.com/eza-community/eza/releases/download/v0.23.4/eza_x86_64-unknown-linux-musl.tar.gz"
   },
   "fastfetch/linux/amd64": {
-    "tag": "2.56.1",
-    "updated_at": "2025-12-18T14:43:13.901055",
-    "sha256": "29e4c2ebe80cafaad9195cf502d9a8995b6aa921b810ab427e3bafa27e1edaac",
-    "url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.56.1/fastfetch-linux-amd64-polyfilled.tar.gz"
+    "tag": "2.58.0",
+    "updated_at": "2026-01-21T15:04:23.839446",
+    "sha256": "0e449cef7dacc68bdb87984c773fd894d2a83e35a9f28787541b523c928589e5",
+    "url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.58.0/fastfetch-linux-amd64-polyfilled.tar.gz"
   },
   "freeze/linux/amd64": {
     "tag": "v0.2.2",
@@ -97,16 +97,16 @@
     "url": "https://github.com/sharkdp/hyperfine/releases/download/v1.20.0/hyperfine-v1.20.0-x86_64-unknown-linux-musl.tar.gz"
   },
   "lazygit/linux/amd64": {
-    "tag": "v0.58.0",
-    "updated_at": "2026-01-06T11:41:41.478110",
-    "sha256": "6161fa717cd07d133f7f1c53fe6e49de97d718dbb4b9e1481604dca6f3b8c647",
-    "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.58.0/lazygit_0.58.0_linux_x86_64.tar.gz"
+    "tag": "v0.58.1",
+    "updated_at": "2026-01-21T15:22:06.673238",
+    "sha256": "61b6b839390c193466fb692f75df4e75ef5e9ced2bf5e0ca8b3848902f0adea9",
+    "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.58.1/lazygit_0.58.1_linux_x86_64.tar.gz"
   },
   "mise/linux/amd64": {
-    "tag": "v2025.12.13",
-    "updated_at": "2025-12-31T10:58:03.575416",
-    "sha256": "fdc80f994d17e28c4dd1497723fce771fdc4134a92a3a2c9b69d4e608bdaa2ce",
-    "url": "https://github.com/jdx/mise/releases/download/v2025.12.13/mise-v2025.12.13-linux-x64-musl.tar.gz"
+    "tag": "v2026.1.6",
+    "updated_at": "2026-01-21T15:04:24.635197",
+    "sha256": "49f764d42a509a9c54dc238d432bc6dcf0fac3ec0d1c4733023c4fe7013e3a04",
+    "url": "https://github.com/jdx/mise/releases/download/v2026.1.6/mise-v2026.1.6-linux-x64-musl.tar.gz"
   },
   "neovim/linux/amd64": {
     "tag": "v0.11.4",
@@ -121,10 +121,10 @@
     "url": "https://github.com/neovim/neovim/releases/download/nightly/nvim-linux-x86_64.appimage"
   },
   "opencode/linux/amd64": {
-    "tag": "v1.1.3",
-    "updated_at": "2026-01-06T11:39:23.755499",
-    "sha256": "cfbf9a85c96f58d262daaded697c484b38c4ee26c7244c12a60698b8e8d81b07",
-    "url": "https://github.com/anomalyco/opencode/releases/download/v1.1.3/opencode-linux-x64-baseline.tar.gz"
+    "tag": "v1.1.29",
+    "updated_at": "2026-01-21T15:04:25.754754",
+    "sha256": "85ae6fa99df40644871172e656f6c1f0915f7e020162ef0cf9fd07d83fb2041a",
+    "url": "https://github.com/anomalyco/opencode/releases/download/v1.1.29/opencode-linux-x64-baseline.tar.gz"
   },
   "pastel/linux/amd64": {
     "tag": "v0.11.0",
@@ -139,10 +139,10 @@
     "url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-x86_64-unknown-linux-musl.tar.gz"
   },
   "sk/linux/amd64": {
-    "tag": "v0.20.5",
-    "updated_at": "2026-01-02T17:30:27.581875",
-    "sha256": "7df6dc82bfaeaaa8258c154e988c8efd22f8a0de6650fa744467739cf921c552",
-    "url": "https://github.com/skim-rs/skim/releases/download/v0.20.5/skim-x86_64-unknown-linux-musl.tgz"
+    "tag": "v1.4.0",
+    "updated_at": "2026-01-21T15:04:25.905552",
+    "sha256": "06aa37b1c6937269f6757bc915d44a23f867579759dd033095b2c12e067dbf22",
+    "url": "https://github.com/skim-rs/skim/releases/download/v1.4.0/skim-x86_64-unknown-linux-musl.tar.xz"
   },
   "slides/linux/amd64": {
     "tag": "v0.9.0",
@@ -175,10 +175,10 @@
     "url": "https://github.com/typst/typst/releases/download/v0.14.2/typst-x86_64-unknown-linux-musl.tar.xz"
   },
   "uv/linux/amd64": {
-    "tag": "0.9.22",
-    "updated_at": "2026-01-06T11:39:24.610765",
-    "sha256": "84d087a8e77a223d80578919894f3103f46ca7c263250c3e0478ce7c38850349",
-    "url": "https://github.com/astral-sh/uv/releases/download/0.9.22/uv-x86_64-unknown-linux-musl.tar.gz"
+    "tag": "0.9.26",
+    "updated_at": "2026-01-21T15:04:26.356584",
+    "sha256": "708b752876aeeb753257e1d55470569789e465684c1d3bc1760db26360b6c28b",
+    "url": "https://github.com/astral-sh/uv/releases/download/0.9.26/uv-x86_64-unknown-linux-musl.tar.gz"
   },
   "vhs/linux/amd64": {
     "tag": "v0.10.0",
