@@ -28,6 +28,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | [git-lfs](https://github.com/git-lfs/git-lfs) | git-lfs/git-lfs | 3.7.1 | Oct 19, 2025 | linux (amd64) |
 | [glow](https://github.com/charmbracelet/glow) | charmbracelet/glow | 2.1.1 | Nov 23, 2025 | linux (amd64) |
 | [gum](https://github.com/charmbracelet/gum) | charmbracelet/gum | 0.17.0 | Oct 22, 2025 | linux (amd64) |
+| [handy](https://github.com/cjpais/Handy) | cjpais/Handy | 0.7.0 | Jan 23, 2026 | linux (amd64) |
 | [hexyl](https://github.com/sharkdp/hexyl) | sharkdp/hexyl | 0.16.0 | Oct 22, 2025 | linux (amd64) |
 | [hyperfine](https://github.com/sharkdp/hyperfine) | sharkdp/hyperfine | 1.20.0 | Nov 23, 2025 | linux (amd64) |
 | [lazygit](https://github.com/jesseduffield/lazygit) | jesseduffield/lazygit | 0.58.1 | Jan 21, 2026 | linux (amd64) |
@@ -52,12 +53,13 @@ This repository contains command-line tools automatically managed by [dotbins](h
 
 ## Tool Statistics
 
-<div align='center'><h3>35 Tools | 794.0 MB Total Size</h3></div>
+<div align='center'><h3>36 Tools | 889.64 MB Total Size</h3></div>
 
 | Tool | Total Size | Avg Size per Architecture |
 | :--- | :-------- | :------------------------ |
 | opencode | 138.58 MB | 138.58 MB |
 | difft | 105.87 MB | 105.87 MB |
+| handy | 95.65 MB | 95.65 MB |
 | ghostty | 88.3 MB | 88.3 MB |
 | mise | 76.09 MB | 76.09 MB |
 | uv | 54.19 MB | 54.19 MB |
@@ -157,5 +159,5 @@ For detailed usage information, run `dotbins --help` or `dotbins <command> --hel
 
 ## Additional Information
 
-* This README was automatically generated on Jan 21, 2026
+* This README was automatically generated on Jan 23, 2026
 * Current platform: **linux/amd64**

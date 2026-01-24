@@ -30,6 +30,7 @@ tools:
   typst: typst/typst
   slides: maaslalani/slides
   sk: skim-rs/skim
+  handy: cjpais/Handy
 
   ttyd:
     repo: tsl0922/ttyd

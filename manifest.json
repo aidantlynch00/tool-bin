@@ -84,6 +84,12 @@
     "sha256": "69ee169bd6387331928864e94d47ed01ef649fbfe875baed1bbf27b5377a6fdb",
     "url": "https://github.com/charmbracelet/gum/releases/download/v0.17.0/gum_0.17.0_Linux_x86_64.tar.gz"
   },
+  "handy/linux/amd64": {
+    "tag": "v0.7.0",
+    "updated_at": "2026-01-23T18:59:03.084398",
+    "sha256": "b53b301582c23c6b4c6c701bd9b40cb249518910955cbaedbb8a500bc20776a4",
+    "url": "https://github.com/cjpais/Handy/releases/download/v0.7.0/Handy_0.7.0_amd64.AppImage"
+  },
   "hexyl/linux/amd64": {
     "tag": "v0.16.0",
     "updated_at": "2025-10-22T19:36:04.704189",
