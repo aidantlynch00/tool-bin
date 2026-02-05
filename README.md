@@ -31,6 +31,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | [handy](https://github.com/cjpais/Handy) | cjpais/Handy | 0.7.1 | Feb 03, 2026 | linux (amd64) |
 | [hexyl](https://github.com/sharkdp/hexyl) | sharkdp/hexyl | 0.16.0 | Oct 22, 2025 | linux (amd64) |
 | [hyperfine](https://github.com/sharkdp/hyperfine) | sharkdp/hyperfine | 1.20.0 | Nov 23, 2025 | linux (amd64) |
+| [just](https://github.com/casey/just) | casey/just | 1.46.0 | Feb 04, 2026 | linux (amd64) |
 | [lazygit](https://github.com/jesseduffield/lazygit) | jesseduffield/lazygit | 0.58.1 | Jan 21, 2026 | linux (amd64) |
 | [mise](https://github.com/jdx/mise) | jdx/mise | 2026.2.2 | Feb 03, 2026 | linux (amd64) |
 | [nvim](https://github.com/neovim/neovim) | neovim/neovim | nightly | Feb 03, 2026 | linux (amd64) |
@@ -45,6 +46,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | [typst](https://github.com/typst/typst) | typst/typst | 0.14.2 | Dec 17, 2025 | linux (amd64) |
 | [uv](https://github.com/astral-sh/uv) | astral-sh/uv | 0.9.29 | Feb 03, 2026 | linux (amd64) |
 | [vhs](https://github.com/charmbracelet/vhs) | charmbracelet/vhs | 0.10.0 | Dec 17, 2025 | linux (amd64) |
+| [wasmtime](https://github.com/bytecodealliance/wasmtime) | bytecodealliance/wasmtime | 41.0.3 | Feb 04, 2026 | linux (amd64) |
 | [yazi](https://github.com/sxyazi/yazi) | sxyazi/yazi | 26.1.22 | Feb 03, 2026 | linux (amd64) |
 | [yq](https://github.com/mikefarah/yq) | mikefarah/yq | 4.52.2 | Feb 03, 2026 | linux (amd64) |
 | [zellij](https://github.com/zellij-org/zellij) | zellij-org/zellij | 0.43.1 | Oct 19, 2025 | linux (amd64) |
@@ -53,7 +55,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 
 ## Tool Statistics
 
-<div align='center'><h3>36 Tools | 891.74 MB Total Size</h3></div>
+<div align='center'><h3>38 Tools | 957.88 MB Total Size</h3></div>
 
 | Tool | Total Size | Avg Size per Architecture |
 | :--- | :-------- | :------------------------ |
@@ -62,6 +64,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | handy | 95.61 MB | 95.61 MB |
 | ghostty | 88.3 MB | 88.3 MB |
 | mise | 76.28 MB | 76.28 MB |
+| wasmtime | 61.47 MB | 61.47 MB |
 | uv | 52.74 MB | 52.74 MB |
 | typst | 48.53 MB | 48.53 MB |
 | zellij | 40.53 MB | 40.53 MB |
@@ -80,6 +83,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | bat | 6.59 MB | 6.59 MB |
 | rg | 5.19 MB | 5.19 MB |
 | sk | 4.77 MB | 4.77 MB |
+| just | 4.68 MB | 4.68 MB |
 | fzf | 4.21 MB | 4.21 MB |
 | caligula | 3.89 MB | 3.89 MB |
 | zjstatus | 3.67 MB | 3.67 MB |
@@ -159,5 +163,5 @@ For detailed usage information, run `dotbins --help` or `dotbins <command> --hel
 
 ## Additional Information
 
-* This README was automatically generated on Feb 03, 2026
+* This README was automatically generated on Feb 04, 2026
 * Current platform: **linux/amd64**

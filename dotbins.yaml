@@ -31,6 +31,8 @@ tools:
   slides: maaslalani/slides
   sk: skim-rs/skim
   handy: cjpais/Handy
+  wasmtime: bytecodealliance/wasmtime
+  just: casey/just
 
   ttyd:
     repo: tsl0922/ttyd
