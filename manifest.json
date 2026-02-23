@@ -228,6 +228,12 @@
     "sha256": "ec981d1cd9968bfb9c57a81a0c53809cabb9a2d39e966054f4c0c4021b27ca12",
     "url": "https://github.com/aidantlynch00/zestty/releases/download/v0.2.1/zestty.zip"
   },
+  "zj-handful/linux/amd64": {
+    "tag": "v0.1.0",
+    "updated_at": "2026-02-23T11:36:12.623685",
+    "sha256": "a55eb69f24aa395bd547fda262befe48e46be47182ef15299360419e7af8cf24",
+    "url": "https://github.com/aidantlynch00/zj-handful/releases/download/v0.1.0/zj-handful.wasm"
+  },
   "zjstatus/linux/amd64": {
     "tag": "v0.22.0",
     "updated_at": "2025-12-18T14:43:15.513532",

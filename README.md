@@ -51,11 +51,12 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | [yq](https://github.com/mikefarah/yq) | mikefarah/yq | 4.52.4 | Feb 15, 2026 | linux (amd64) |
 | [zellij](https://github.com/zellij-org/zellij) | zellij-org/zellij | 0.43.1 | Oct 19, 2025 | linux (amd64) |
 | [zestty](https://github.com/aidantlynch00/zestty) | aidantlynch00/zestty | 0.2.1 | Feb 15, 2026 | linux (amd64) |
+| [zj-handful](https://github.com/aidantlynch00/zj-handful) | aidantlynch00/zj-handful | 0.1.0 | Feb 23, 2026 | linux (amd64) |
 | [zjstatus](https://github.com/dj95/zjstatus) | dj95/zjstatus | 0.22.0 | Dec 18, 2025 | linux (amd64) |
 
 ## Tool Statistics
 
-<div align='center'><h3>38 Tools | 973.34 MB Total Size</h3></div>
+<div align='center'><h3>39 Tools | 974.55 MB Total Size</h3></div>
 
 | Tool | Total Size | Avg Size per Architecture |
 | :--- | :-------- | :------------------------ |
@@ -97,6 +98,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | ttyd | 1.3 MB | 1.3 MB |
 | pastel | 1.25 MB | 1.25 MB |
 | zestty | 1.23 MB | 1.23 MB |
+| zj-handful | 1.21 MB | 1.21 MB |
 
 ## Shell Integration
 
@@ -163,5 +165,5 @@ For detailed usage information, run `dotbins --help` or `dotbins <command> --hel
 
 ## Additional Information
 
-* This README was automatically generated on Feb 15, 2026
+* This README was automatically generated on Feb 23, 2026
 * Current platform: **linux/amd64**

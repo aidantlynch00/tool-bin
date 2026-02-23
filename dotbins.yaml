@@ -49,6 +49,11 @@ tools:
       bash: |
         source $HOME/.tool-bin/shell/bash/setup/zestty.sh
 
+  zj-handful:
+    repo: aidantlynch00/zj-handful
+    asset_patterns: zj-handful.wasm
+    binary_name: zj-handful.wasm
+
   atac:
     repo: Julien-cpsn/ATAC
     shell_code:
