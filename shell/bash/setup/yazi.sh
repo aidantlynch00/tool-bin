@@ -1,6 +1,8 @@
 #.bashrc
 
-y() {
+alias y="yazi"
+
+yd() {
     set -- "$@" --cwd-file "$(mktemp -t yazi-cwd.XXXXXX)"
     command yazi "$@"
     shift $(($# - 1))
