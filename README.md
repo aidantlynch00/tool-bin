@@ -23,30 +23,30 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | [eza](https://github.com/eza-community/eza) | eza-community/eza | 0.23.4 | Oct 20, 2025 | linux (amd64) |
 | [fastfetch](https://github.com/fastfetch-cli/fastfetch) | fastfetch-cli/fastfetch | 2.59.0 | Feb 15, 2026 | linux (amd64) |
 | [freeze](https://github.com/charmbracelet/freeze) | charmbracelet/freeze | 0.2.2 | Dec 17, 2025 | linux (amd64) |
-| [fzf](https://github.com/junegunn/fzf) | junegunn/fzf | 0.67.0 | Nov 16, 2025 | linux (amd64) |
+| [fzf](https://github.com/junegunn/fzf) | junegunn/fzf | 0.68.0 | Feb 25, 2026 | linux (amd64) |
 | [ghostty](https://github.com/pkgforge-dev/ghostty-appimage) | pkgforge-dev/ghostty-appimage | 1.1.2 | Nov 10, 2025 | linux (amd64) |
 | [git-lfs](https://github.com/git-lfs/git-lfs) | git-lfs/git-lfs | 3.7.1 | Oct 19, 2025 | linux (amd64) |
 | [glow](https://github.com/charmbracelet/glow) | charmbracelet/glow | 2.1.1 | Nov 23, 2025 | linux (amd64) |
 | [gum](https://github.com/charmbracelet/gum) | charmbracelet/gum | 0.17.0 | Oct 22, 2025 | linux (amd64) |
-| [handy](https://github.com/cjpais/Handy) | cjpais/Handy | 0.7.5 | Feb 15, 2026 | linux (amd64) |
+| [handy](https://github.com/cjpais/Handy) | cjpais/Handy | 0.7.8 | Feb 25, 2026 | linux (amd64) |
 | [hexyl](https://github.com/sharkdp/hexyl) | sharkdp/hexyl | 0.17.0 | Feb 15, 2026 | linux (amd64) |
 | [hyperfine](https://github.com/sharkdp/hyperfine) | sharkdp/hyperfine | 1.20.0 | Nov 23, 2025 | linux (amd64) |
 | [just](https://github.com/casey/just) | casey/just | 1.46.0 | Feb 04, 2026 | linux (amd64) |
 | [lazygit](https://github.com/jesseduffield/lazygit) | jesseduffield/lazygit | 0.59.0 | Feb 15, 2026 | linux (amd64) |
-| [mise](https://github.com/jdx/mise) | jdx/mise | 2026.2.13 | Feb 15, 2026 | linux (amd64) |
-| [nvim](https://github.com/neovim/neovim) | neovim/neovim | nightly | Feb 15, 2026 | linux (amd64) |
-| [opencode](https://github.com/sst/opencode) | sst/opencode | 1.2.5 | Feb 15, 2026 | linux (amd64) |
+| [mise](https://github.com/jdx/mise) | jdx/mise | 2026.2.20 | Feb 25, 2026 | linux (amd64) |
+| [nvim](https://github.com/neovim/neovim) | neovim/neovim | nightly | Feb 25, 2026 | linux (amd64) |
+| [opencode](https://github.com/sst/opencode) | sst/opencode | 1.2.14 | Feb 25, 2026 | linux (amd64) |
 | [pastel](https://github.com/sharkdp/pastel) | sharkdp/pastel | 0.12.0 | Feb 15, 2026 | linux (amd64) |
 | [rg](https://github.com/BurntSushi/ripgrep) | BurntSushi/ripgrep | 15.1.0 | Oct 28, 2025 | linux (amd64) |
-| [sk](https://github.com/skim-rs/skim) | skim-rs/skim | 3.2.0 | Feb 15, 2026 | linux (amd64) |
+| [sk](https://github.com/skim-rs/skim) | skim-rs/skim | 3.5.0 | Feb 25, 2026 | linux (amd64) |
 | [slides](https://github.com/maaslalani/slides) | maaslalani/slides | 0.9.0 | Jan 01, 2026 | linux (amd64) |
 | [starship](https://github.com/starship/starship) | starship/starship | 1.24.2 | Dec 31, 2025 | linux (amd64) |
 | [tldr](https://github.com/tealdeer-rs/tealdeer) | tealdeer-rs/tealdeer | 1.8.1 | Nov 16, 2025 | linux (amd64) |
 | [ttyd](https://github.com/tsl0922/ttyd) | tsl0922/ttyd | 1.7.7 | Jan 01, 2026 | linux (amd64) |
 | [typst](https://github.com/typst/typst) | typst/typst | 0.14.2 | Dec 17, 2025 | linux (amd64) |
-| [uv](https://github.com/astral-sh/uv) | astral-sh/uv | 0.10.2 | Feb 15, 2026 | linux (amd64) |
+| [uv](https://github.com/astral-sh/uv) | astral-sh/uv | 0.10.6 | Feb 25, 2026 | linux (amd64) |
 | [vhs](https://github.com/charmbracelet/vhs) | charmbracelet/vhs | 0.10.0 | Dec 17, 2025 | linux (amd64) |
-| [wasmtime](https://github.com/bytecodealliance/wasmtime) | bytecodealliance/wasmtime | 41.0.3 | Feb 04, 2026 | linux (amd64) |
+| [wasmtime](https://github.com/bytecodealliance/wasmtime) | bytecodealliance/wasmtime | 42.0.1 | Feb 25, 2026 | linux (amd64) |
 | [yazi](https://github.com/sxyazi/yazi) | sxyazi/yazi | 26.1.22 | Feb 03, 2026 | linux (amd64) |
 | [yq](https://github.com/mikefarah/yq) | mikefarah/yq | 4.52.4 | Feb 15, 2026 | linux (amd64) |
 | [zellij](https://github.com/zellij-org/zellij) | zellij-org/zellij | 0.43.1 | Oct 19, 2025 | linux (amd64) |
@@ -56,23 +56,23 @@ This repository contains command-line tools automatically managed by [dotbins](h
 
 ## Tool Statistics
 
-<div align='center'><h3>39 Tools | 974.55 MB Total Size</h3></div>
+<div align='center'><h3>39 Tools | 987.33 MB Total Size</h3></div>
 
 | Tool | Total Size | Avg Size per Architecture |
 | :--- | :-------- | :------------------------ |
-| opencode | 146.02 MB | 146.02 MB |
+| opencode | 152.36 MB | 152.36 MB |
 | difft | 105.87 MB | 105.87 MB |
-| handy | 95.9 MB | 95.9 MB |
+| handy | 96.03 MB | 96.03 MB |
 | ghostty | 88.3 MB | 88.3 MB |
-| mise | 76.66 MB | 76.66 MB |
-| wasmtime | 61.47 MB | 61.47 MB |
-| uv | 53.41 MB | 53.41 MB |
+| mise | 83.06 MB | 83.06 MB |
+| wasmtime | 60.98 MB | 60.98 MB |
+| uv | 53.59 MB | 53.59 MB |
 | typst | 48.53 MB | 48.53 MB |
 | zellij | 40.53 MB | 40.53 MB |
 | vhs | 22.54 MB | 22.54 MB |
 | yazi | 21.95 MB | 21.95 MB |
 | lazygit | 20.76 MB | 20.76 MB |
-| nvim | 18.83 MB | 18.83 MB |
+| nvim | 18.86 MB | 18.86 MB |
 | atac | 17.49 MB | 17.49 MB |
 | glow | 16.67 MB | 16.67 MB |
 | slides | 14.0 MB | 14.0 MB |
@@ -84,9 +84,9 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | fastfetch | 9.66 MB | 9.66 MB |
 | bat | 6.59 MB | 6.59 MB |
 | rg | 5.19 MB | 5.19 MB |
-| sk | 4.84 MB | 4.84 MB |
+| sk | 4.98 MB | 4.98 MB |
 | just | 4.68 MB | 4.68 MB |
-| fzf | 4.21 MB | 4.21 MB |
+| fzf | 4.24 MB | 4.24 MB |
 | caligula | 3.89 MB | 3.89 MB |
 | zjstatus | 3.67 MB | 3.67 MB |
 | tldr | 3.4 MB | 3.4 MB |
@@ -165,5 +165,5 @@ For detailed usage information, run `dotbins --help` or `dotbins <command> --hel
 
 ## Additional Information
 
-* This README was automatically generated on Feb 23, 2026
+* This README was automatically generated on Feb 25, 2026
 * Current platform: **linux/amd64**

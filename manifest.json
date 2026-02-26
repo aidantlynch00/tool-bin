@@ -55,10 +55,10 @@
     "url": "https://github.com/charmbracelet/freeze/releases/download/v0.2.2/freeze_0.2.2_Linux_x86_64.tar.gz"
   },
   "fzf/linux/amd64": {
-    "tag": "v0.67.0",
-    "updated_at": "2025-11-16T12:22:21.458744",
-    "sha256": "4be08018ca37b32518c608741933ea335a406de3558242b60619e98f25be2be1",
-    "url": "https://github.com/junegunn/fzf/releases/download/v0.67.0/fzf-0.67.0-linux_amd64.tar.gz"
+    "tag": "v0.68.0",
+    "updated_at": "2026-02-25T23:32:06.586455",
+    "sha256": "545004a69eb65bb9adf32000971105ac21aea54bbecb618c55414d21b823fe95",
+    "url": "https://github.com/junegunn/fzf/releases/download/v0.68.0/fzf-0.68.0-linux_amd64.tar.gz"
   },
   "ghostty/linux/amd64": {
     "tag": "v1.1.2",
@@ -85,10 +85,10 @@
     "url": "https://github.com/charmbracelet/gum/releases/download/v0.17.0/gum_0.17.0_Linux_x86_64.tar.gz"
   },
   "handy/linux/amd64": {
-    "tag": "v0.7.5",
-    "updated_at": "2026-02-15T22:58:23.230287",
-    "sha256": "4216c02b1b416e34a6972b0a674a64bc05a1423deef8865e9d389318fb5ce0fd",
-    "url": "https://github.com/cjpais/Handy/releases/download/v0.7.5/Handy_0.7.5_amd64.AppImage"
+    "tag": "v0.7.8",
+    "updated_at": "2026-02-25T23:32:07.277983",
+    "sha256": "882021361df8dd3287ee4930153a5dce88f1328b48c019bdf4b3b044e9ae6aa2",
+    "url": "https://github.com/cjpais/Handy/releases/download/v0.7.8/Handy_0.7.8_amd64.AppImage"
   },
   "hexyl/linux/amd64": {
     "tag": "v0.17.0",
@@ -115,10 +115,10 @@
     "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.59.0/lazygit_0.59.0_linux_x86_64.tar.gz"
   },
   "mise/linux/amd64": {
-    "tag": "v2026.2.13",
-    "updated_at": "2026-02-15T22:58:24.610678",
-    "sha256": "f037cc6e7cb68244fdf1da0712aea63135b5840194be63e9c94bc1979189d9fa",
-    "url": "https://github.com/jdx/mise/releases/download/v2026.2.13/mise-v2026.2.13-linux-x64-musl.tar.gz"
+    "tag": "v2026.2.20",
+    "updated_at": "2026-02-25T23:32:08.851859",
+    "sha256": "f266693a4a90e536e566fc507dd764c6b322b221a4b151015de10899bb7caf10",
+    "url": "https://github.com/jdx/mise/releases/download/v2026.2.20/mise-v2026.2.20-linux-x64-musl.tar.gz"
   },
   "neovim/linux/amd64": {
     "tag": "v0.11.4",
@@ -128,15 +128,15 @@
   },
   "nvim/linux/amd64": {
     "tag": "nightly",
-    "updated_at": "2026-02-15T22:59:03.559978",
-    "sha256": "0b53c5dd6fccce0932e6caafd8e3dd54b4c9d5b05a74c6b1e9d9d55ef692632d",
+    "updated_at": "2026-02-25T23:32:47.184860",
+    "sha256": "76dbe8f1b659e7a694228bb20a7d6c887e35ef39e56c39cc078efe4c546da37a",
     "url": "https://github.com/neovim/neovim/releases/download/nightly/nvim-linux-x86_64.appimage"
   },
   "opencode/linux/amd64": {
-    "tag": "v1.2.5",
-    "updated_at": "2026-02-15T22:58:26.230047",
-    "sha256": "3c81af65a796db0c6b3bf22f95ab989a553af5bdda38cff50408afe9f07f5ff5",
-    "url": "https://github.com/anomalyco/opencode/releases/download/v1.2.5/opencode-linux-x64-baseline.tar.gz"
+    "tag": "v1.2.14",
+    "updated_at": "2026-02-25T23:32:10.860496",
+    "sha256": "e16183c3338c41af048a4c76c9e70e89e1c9a7340a3d72b687c36e9afd6db21f",
+    "url": "https://github.com/anomalyco/opencode/releases/download/v1.2.14/opencode-linux-x64-baseline.tar.gz"
   },
   "pastel/linux/amd64": {
     "tag": "v0.12.0",
@@ -151,10 +151,10 @@
     "url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-x86_64-unknown-linux-musl.tar.gz"
   },
   "sk/linux/amd64": {
-    "tag": "v3.2.0",
-    "updated_at": "2026-02-15T22:58:28.292711",
-    "sha256": "2cf198ad02a320af567f375ed46ead3edaa37310c728007dcc6c34574169463d",
-    "url": "https://github.com/skim-rs/skim/releases/download/v3.2.0/skim-x86_64-unknown-linux-musl.tar.xz"
+    "tag": "v3.5.0",
+    "updated_at": "2026-02-25T23:32:11.121324",
+    "sha256": "ffd54dee8e40b359c5984e95b11c03978ac8334784ea401a3522522fb8649f2b",
+    "url": "https://github.com/skim-rs/skim/releases/download/v3.5.0/skim-x86_64-unknown-linux-musl.tar.xz"
   },
   "slides/linux/amd64": {
     "tag": "v0.9.0",
@@ -187,10 +187,10 @@
     "url": "https://github.com/typst/typst/releases/download/v0.14.2/typst-x86_64-unknown-linux-musl.tar.xz"
   },
   "uv/linux/amd64": {
-    "tag": "0.10.2",
-    "updated_at": "2026-02-15T22:58:28.991473",
-    "sha256": "c162182ba7dd692794362d76dd183990d6e51553217954106da19bdb6ced211b",
-    "url": "https://github.com/astral-sh/uv/releases/download/0.10.2/uv-x86_64-unknown-linux-musl.tar.gz"
+    "tag": "0.10.6",
+    "updated_at": "2026-02-25T23:32:12.529518",
+    "sha256": "01d6ce770da88ce6445acb0a8764c8b1634c9f69c728dca68b19fc7a893f72b9",
+    "url": "https://github.com/astral-sh/uv/releases/download/0.10.6/uv-x86_64-unknown-linux-musl.tar.gz"
   },
   "vhs/linux/amd64": {
     "tag": "v0.10.0",
@@ -199,10 +199,10 @@
     "url": "https://github.com/charmbracelet/vhs/releases/download/v0.10.0/vhs_0.10.0_Linux_x86_64.tar.gz"
   },
   "wasmtime/linux/amd64": {
-    "tag": "v41.0.3",
-    "updated_at": "2026-02-04T19:12:32.524517",
-    "sha256": "797d0a4f790e79c33ccaf43bfe413f077fff951e3a35145afe7b5a8324f14644",
-    "url": "https://github.com/bytecodealliance/wasmtime/releases/download/v41.0.3/wasmtime-v41.0.3-x86_64-linux.tar.xz"
+    "tag": "v42.0.1",
+    "updated_at": "2026-02-25T23:32:15.121014",
+    "sha256": "dd5253f3cb521bb094f9951c3d2c45c746b31e5723b07ce56f162ec9bab44d59",
+    "url": "https://github.com/bytecodealliance/wasmtime/releases/download/v42.0.1/wasmtime-v42.0.1-x86_64-linux.tar.xz"
   },
   "yazi/linux/amd64": {
     "tag": "v26.1.22",
