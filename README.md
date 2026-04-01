@@ -42,11 +42,11 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | [slides](https://github.com/maaslalani/slides) | maaslalani/slides | 0.9.0 | Jan 01, 2026 | linux (amd64) |
 | [starship](https://github.com/starship/starship) | starship/starship | 1.24.2 | Dec 31, 2025 | linux (amd64) |
 | [tldr](https://github.com/tealdeer-rs/tealdeer) | tealdeer-rs/tealdeer | 1.8.1 | Nov 16, 2025 | linux (amd64) |
+| [tree-sitter](https://github.com/tree-sitter/tree-sitter) | tree-sitter/tree-sitter | 0.26.8 | Apr 01, 2026 | linux (amd64) |
 | [ttyd](https://github.com/tsl0922/ttyd) | tsl0922/ttyd | 1.7.7 | Jan 01, 2026 | linux (amd64) |
 | [typst](https://github.com/typst/typst) | typst/typst | 0.14.2 | Dec 17, 2025 | linux (amd64) |
 | [uv](https://github.com/astral-sh/uv) | astral-sh/uv | 0.11.2 | Mar 30, 2026 | linux (amd64) |
 | [vhs](https://github.com/charmbracelet/vhs) | charmbracelet/vhs | 0.11.0 | Mar 14, 2026 | linux (amd64) |
-| [wasmtime](https://github.com/bytecodealliance/wasmtime) | bytecodealliance/wasmtime | 43.0.0 | Mar 30, 2026 | linux (amd64) |
 | [yazi](https://github.com/sxyazi/yazi) | sxyazi/yazi | 26.1.22 | Feb 03, 2026 | linux (amd64) |
 | [yq](https://github.com/mikefarah/yq) | mikefarah/yq | 4.52.5 | Mar 30, 2026 | linux (amd64) |
 | [zellij](https://github.com/zellij-org/zellij) | zellij-org/zellij | 0.44.0 | Mar 30, 2026 | linux (amd64) |
@@ -56,7 +56,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 
 ## Tool Statistics
 
-<div align='center'><h3>39 Tools | 1012.94 MB Total Size</h3></div>
+<div align='center'><h3>39 Tools | 976.64 MB Total Size</h3></div>
 
 | Tool | Total Size | Avg Size per Architecture |
 | :--- | :-------- | :------------------------ |
@@ -65,10 +65,10 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | handy | 101.62 MB | 101.62 MB |
 | ghostty | 88.3 MB | 88.3 MB |
 | mise | 84.55 MB | 84.55 MB |
-| wasmtime | 60.56 MB | 60.56 MB |
 | uv | 57.03 MB | 57.03 MB |
 | typst | 48.53 MB | 48.53 MB |
 | zellij | 48.31 MB | 48.31 MB |
+| tree-sitter | 24.26 MB | 24.26 MB |
 | vhs | 22.1 MB | 22.1 MB |
 | yazi | 21.95 MB | 21.95 MB |
 | lazygit | 20.79 MB | 20.79 MB |
@@ -165,5 +165,5 @@ For detailed usage information, run `dotbins --help` or `dotbins <command> --hel
 
 ## Additional Information
 
-* This README was automatically generated on Mar 30, 2026
+* This README was automatically generated on Apr 01, 2026
 * Current platform: **linux/amd64**
