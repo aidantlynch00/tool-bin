@@ -24,6 +24,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | [fastfetch](https://github.com/fastfetch-cli/fastfetch) | fastfetch-cli/fastfetch | 2.66.0 | Jul 13, 2026 | linux (amd64) |
 | [freeze](https://github.com/charmbracelet/freeze) | charmbracelet/freeze | 0.2.2 | Dec 17, 2025 | linux (amd64) |
 | [fzf](https://github.com/junegunn/fzf) | junegunn/fzf | 0.74.0 | Jul 13, 2026 | linux (amd64) |
+| [gh](https://github.com/cli/cli) | cli/cli | 2.96.0 | Jul 13, 2026 | linux (amd64) |
 | [ghostty](https://github.com/pkgforge-dev/ghostty-appimage) | pkgforge-dev/ghostty-appimage | 1.1.2 | Nov 10, 2025 | linux (amd64) |
 | [git-lfs](https://github.com/git-lfs/git-lfs) | git-lfs/git-lfs | 3.7.1 | Oct 19, 2025 | linux (amd64) |
 | [glow](https://github.com/charmbracelet/glow) | charmbracelet/glow | 2.1.2 | May 08, 2026 | linux (amd64) |
@@ -55,7 +56,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 
 ## Tool Statistics
 
-<div align='center'><h3>38 Tools | 1.02 GB Total Size</h3></div>
+<div align='center'><h3>39 Tools | 1.05 GB Total Size</h3></div>
 
 | Tool | Total Size | Avg Size per Architecture |
 | :--- | :-------- | :------------------------ |
@@ -67,6 +68,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | uv | 63.3 MB | 63.3 MB |
 | typst | 53.15 MB | 53.15 MB |
 | zellij | 49.43 MB | 49.43 MB |
+| gh | 38.84 MB | 38.84 MB |
 | yazi | 23.57 MB | 23.57 MB |
 | vhs | 22.1 MB | 22.1 MB |
 | nvim | 19.22 MB | 19.22 MB |

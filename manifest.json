@@ -60,6 +60,12 @@
     "sha256": "cf919f05b7581b4c744d764eaa704665d61dd6d3ca785f0df2351281dff60cda",
     "url": "https://github.com/junegunn/fzf/releases/download/v0.74.0/fzf-0.74.0-linux_amd64.tar.gz"
   },
+  "gh/linux/amd64": {
+    "tag": "v2.96.0",
+    "updated_at": "2026-07-13T08:32:57.917922",
+    "sha256": "83d5c2ccad5498f58bf6368acb1ab32588cf43ab3a4b1c301bf36328b1c8bd60",
+    "url": "https://github.com/cli/cli/releases/download/v2.96.0/gh_2.96.0_linux_amd64.tar.gz"
+  },
   "ghostty/linux/amd64": {
     "tag": "v1.1.2",
     "updated_at": "2025-11-10T09:18:40.130366",
