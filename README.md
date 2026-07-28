@@ -23,51 +23,51 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | [eza](https://github.com/eza-community/eza) | eza-community/eza | 0.23.5 | Jul 13, 2026 | linux (amd64) |
 | [fastfetch](https://github.com/fastfetch-cli/fastfetch) | fastfetch-cli/fastfetch | 2.66.0 | Jul 13, 2026 | linux (amd64) |
 | [freeze](https://github.com/charmbracelet/freeze) | charmbracelet/freeze | 0.2.2 | Dec 17, 2025 | linux (amd64) |
-| [fzf](https://github.com/junegunn/fzf) | junegunn/fzf | 0.74.0 | Jul 13, 2026 | linux (amd64) |
+| [fzf](https://github.com/junegunn/fzf) | junegunn/fzf | 0.74.1 | Jul 28, 2026 | linux (amd64) |
 | [gh](https://github.com/cli/cli) | cli/cli | 2.96.0 | Jul 13, 2026 | linux (amd64) |
 | [ghostty](https://github.com/pkgforge-dev/ghostty-appimage) | pkgforge-dev/ghostty-appimage | 1.1.2 | Nov 10, 2025 | linux (amd64) |
 | [git-lfs](https://github.com/git-lfs/git-lfs) | git-lfs/git-lfs | 3.7.1 | Oct 19, 2025 | linux (amd64) |
 | [glow](https://github.com/charmbracelet/glow) | charmbracelet/glow | 2.1.2 | May 08, 2026 | linux (amd64) |
 | [gum](https://github.com/charmbracelet/gum) | charmbracelet/gum | 0.17.0 | Oct 22, 2025 | linux (amd64) |
-| [handy](https://github.com/cjpais/Handy) | cjpais/Handy | 0.9.2 | Jul 13, 2026 | linux (amd64) |
+| [handy](https://github.com/cjpais/Handy) | cjpais/Handy | 0.9.4 | Jul 28, 2026 | linux (amd64) |
 | [hexyl](https://github.com/sharkdp/hexyl) | sharkdp/hexyl | 0.17.0 | Feb 15, 2026 | linux (amd64) |
 | [hyperfine](https://github.com/sharkdp/hyperfine) | sharkdp/hyperfine | 1.20.0 | Nov 23, 2025 | linux (amd64) |
-| [just](https://github.com/casey/just) | casey/just | 1.56.0 | Jul 13, 2026 | linux (amd64) |
-| [lazygit](https://github.com/jesseduffield/lazygit) | jesseduffield/lazygit | 0.63.0 | Jul 13, 2026 | linux (amd64) |
-| [mise](https://github.com/jdx/mise) | jdx/mise | 2026.7.5 | Jul 13, 2026 | linux (amd64) |
+| [just](https://github.com/casey/just) | casey/just | 1.57.0 | Jul 28, 2026 | linux (amd64) |
+| [lazygit](https://github.com/jesseduffield/lazygit) | jesseduffield/lazygit | 0.63.1 | Jul 28, 2026 | linux (amd64) |
+| [mise](https://github.com/jdx/mise) | jdx/mise | 2026.7.15 | Jul 28, 2026 | linux (amd64) |
 | [nvim](https://github.com/neovim/neovim) | neovim/neovim | nightly | Jul 13, 2026 | linux (amd64) |
-| [opencode](https://github.com/sst/opencode) | sst/opencode | 1.17.18 | Jul 13, 2026 | linux (amd64) |
+| [opencode](https://github.com/sst/opencode) | sst/opencode | 1.18.9 | Jul 28, 2026 | linux (amd64) |
 | [pastel](https://github.com/sharkdp/pastel) | sharkdp/pastel | 0.12.0 | Feb 15, 2026 | linux (amd64) |
-| [rg](https://github.com/BurntSushi/ripgrep) | BurntSushi/ripgrep | 15.1.0 | Oct 28, 2025 | linux (amd64) |
-| [sk](https://github.com/skim-rs/skim) | skim-rs/skim | 5.1.0 | Jul 13, 2026 | linux (amd64) |
+| [rg](https://github.com/BurntSushi/ripgrep) | BurntSushi/ripgrep | 15.2.0 | Jul 28, 2026 | linux (amd64) |
+| [sk](https://github.com/skim-rs/skim) | skim-rs/skim | 5.6.1 | Jul 28, 2026 | linux (amd64) |
 | [slides](https://github.com/maaslalani/slides) | maaslalani/slides | 0.9.0 | Jan 01, 2026 | linux (amd64) |
 | [starship](https://github.com/starship/starship) | starship/starship | 1.26.0 | Jul 13, 2026 | linux (amd64) |
 | [tldr](https://github.com/tealdeer-rs/tealdeer) | tealdeer-rs/tealdeer | 1.8.1 | Nov 16, 2025 | linux (amd64) |
 | [tree-sitter](https://github.com/tree-sitter/tree-sitter) | tree-sitter/tree-sitter | 0.26.11 | Jul 13, 2026 | linux (amd64) |
 | [ttyd](https://github.com/tsl0922/ttyd) | tsl0922/ttyd | 1.7.7 | Jan 01, 2026 | linux (amd64) |
-| [typst](https://github.com/typst/typst) | typst/typst | 0.15.0 | Jul 13, 2026 | linux (amd64) |
-| [uv](https://github.com/astral-sh/uv) | astral-sh/uv | 0.11.28 | Jul 13, 2026 | linux (amd64) |
+| [typst](https://github.com/typst/typst) | typst/typst | 0.15.1 | Jul 28, 2026 | linux (amd64) |
+| [uv](https://github.com/astral-sh/uv) | astral-sh/uv | 0.12.0 | Jul 28, 2026 | linux (amd64) |
 | [vhs](https://github.com/charmbracelet/vhs) | charmbracelet/vhs | 0.11.0 | Mar 14, 2026 | linux (amd64) |
 | [yazi](https://github.com/sxyazi/yazi) | sxyazi/yazi | 26.5.6 | May 08, 2026 | linux (amd64) |
 | [yq](https://github.com/mikefarah/yq) | mikefarah/yq | 4.53.3 | Jul 13, 2026 | linux (amd64) |
 | [zellij](https://github.com/zellij-org/zellij) | zellij-org/zellij | 0.44.3 | Jul 13, 2026 | linux (amd64) |
 | [zestty](https://github.com/aidantlynch00/zestty) | aidantlynch00/zestty | 0.2.1 | Feb 15, 2026 | linux (amd64) |
 | [zj-handful](https://github.com/aidantlynch00/zj-handful) | aidantlynch00/zj-handful | 0.1.0 | Feb 23, 2026 | linux (amd64) |
-| [zjstatus](https://github.com/dj95/zjstatus) | dj95/zjstatus | 0.23.0 | May 08, 2026 | linux (amd64) |
+| [zjstatus](https://github.com/dj95/zjstatus) | dj95/zjstatus | 0.24.0 | Jul 28, 2026 | linux (amd64) |
 
 ## Tool Statistics
 
-<div align='center'><h3>40 Tools | 1.08 GB Total Size</h3></div>
+<div align='center'><h3>40 Tools | 1.07 GB Total Size</h3></div>
 
 | Tool | Total Size | Avg Size per Architecture |
 | :--- | :-------- | :------------------------ |
-| opencode | 180.22 MB | 180.22 MB |
-| handy | 125.99 MB | 125.99 MB |
+| opencode | 170.82 MB | 170.82 MB |
+| handy | 126.01 MB | 126.01 MB |
 | difft | 119.57 MB | 119.57 MB |
-| mise | 93.76 MB | 93.76 MB |
+| mise | 102.32 MB | 102.32 MB |
 | ghostty | 88.3 MB | 88.3 MB |
-| uv | 63.3 MB | 63.3 MB |
-| typst | 53.15 MB | 53.15 MB |
+| typst | 53.16 MB | 53.16 MB |
+| uv | 53.09 MB | 53.09 MB |
 | zellij | 49.43 MB | 49.43 MB |
 | gh | 38.84 MB | 38.84 MB |
 | tree-sitter | 25.36 MB | 25.36 MB |
@@ -84,12 +84,12 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | git-lfs | 12.36 MB | 12.36 MB |
 | starship | 11.91 MB | 11.91 MB |
 | fastfetch | 10.78 MB | 10.78 MB |
-| sk | 9.81 MB | 9.81 MB |
+| sk | 8.76 MB | 8.76 MB |
 | bat | 6.59 MB | 6.59 MB |
-| just | 5.96 MB | 5.96 MB |
-| rg | 5.19 MB | 5.19 MB |
-| fzf | 4.66 MB | 4.66 MB |
-| zjstatus | 3.85 MB | 3.85 MB |
+| just | 6.09 MB | 6.09 MB |
+| rg | 5.16 MB | 5.16 MB |
+| fzf | 4.67 MB | 4.67 MB |
+| zjstatus | 3.86 MB | 3.86 MB |
 | caligula | 3.72 MB | 3.72 MB |
 | tldr | 3.4 MB | 3.4 MB |
 | dust | 3.01 MB | 3.01 MB |
