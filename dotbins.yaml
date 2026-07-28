@@ -32,6 +32,7 @@ tools:
   sk: skim-rs/skim
   handy: cjpais/Handy
   just: casey/just
+  tree-sitter: tree-sitter/tree-sitter
   gh: cli/cli
 
   ttyd:

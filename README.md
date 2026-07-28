@@ -43,6 +43,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | [slides](https://github.com/maaslalani/slides) | maaslalani/slides | 0.9.0 | Jan 01, 2026 | linux (amd64) |
 | [starship](https://github.com/starship/starship) | starship/starship | 1.26.0 | Jul 13, 2026 | linux (amd64) |
 | [tldr](https://github.com/tealdeer-rs/tealdeer) | tealdeer-rs/tealdeer | 1.8.1 | Nov 16, 2025 | linux (amd64) |
+| [tree-sitter](https://github.com/tree-sitter/tree-sitter) | tree-sitter/tree-sitter | 0.26.11 | Jul 13, 2026 | linux (amd64) |
 | [ttyd](https://github.com/tsl0922/ttyd) | tsl0922/ttyd | 1.7.7 | Jan 01, 2026 | linux (amd64) |
 | [typst](https://github.com/typst/typst) | typst/typst | 0.15.0 | Jul 13, 2026 | linux (amd64) |
 | [uv](https://github.com/astral-sh/uv) | astral-sh/uv | 0.11.28 | Jul 13, 2026 | linux (amd64) |
@@ -56,7 +57,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 
 ## Tool Statistics
 
-<div align='center'><h3>39 Tools | 1.05 GB Total Size</h3></div>
+<div align='center'><h3>40 Tools | 1.08 GB Total Size</h3></div>
 
 | Tool | Total Size | Avg Size per Architecture |
 | :--- | :-------- | :------------------------ |
@@ -69,6 +70,7 @@ This repository contains command-line tools automatically managed by [dotbins](h
 | typst | 53.15 MB | 53.15 MB |
 | zellij | 49.43 MB | 49.43 MB |
 | gh | 38.84 MB | 38.84 MB |
+| tree-sitter | 25.36 MB | 25.36 MB |
 | yazi | 23.57 MB | 23.57 MB |
 | vhs | 22.1 MB | 22.1 MB |
 | nvim | 19.22 MB | 19.22 MB |
@@ -165,5 +167,5 @@ For detailed usage information, run `dotbins --help` or `dotbins <command> --hel
 
 ## Additional Information
 
-* This README was automatically generated on Jul 13, 2026
+* This README was automatically generated on Jul 28, 2026
 * Current platform: **linux/amd64**

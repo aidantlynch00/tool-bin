@@ -180,6 +180,12 @@
     "sha256": "6f2fad4435e0110484d3f25cdc4bf20129dae03238f32d06ebdd00bdc50ae2ed",
     "url": "https://github.com/tealdeer-rs/tealdeer/releases/download/v1.8.1/tealdeer-linux-x86_64-musl"
   },
+  "tree-sitter/linux/amd64": {
+    "tag": "v0.26.11",
+    "updated_at": "2026-07-13T08:13:57.884464",
+    "sha256": "ff1b7f9863f2faafd78dc0e66d902ee85b37f709b314b22c009f51caf233eebd",
+    "url": "https://github.com/tree-sitter/tree-sitter/releases/download/v0.26.11/tree-sitter-cli-linux-x64.zip"
+  },
   "ttyd/linux/amd64": {
     "tag": "1.7.7",
     "updated_at": "2026-01-01T22:08:41.635430",
