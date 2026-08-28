@@ -34,6 +34,7 @@ tools:
   just: casey/just
   tree-sitter: tree-sitter/tree-sitter
   gh: cli/cli
+  fastfetch: fastfetch-cli/fastfetch
 
   ttyd:
     repo: tsl0922/ttyd
@@ -70,12 +71,6 @@ tools:
   ghostty:
     repo: pkgforge-dev/ghostty-appimage
     tag: v1.1.2
-
-  fastfetch:
-    repo: fastfetch-cli/fastfetch
-    shell_code:
-      bash: |
-        fastfetch
 
   lazygit:
     repo: jesseduffield/lazygit
